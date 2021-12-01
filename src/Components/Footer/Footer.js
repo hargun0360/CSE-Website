@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import {ReactComponent as Logo} from '../../assets/icons/akgec.svg';
+import path from '../../assets/icons/logo1.png';
 import {ReactComponent as SIlogo} from '../../assets/icons/silogo.svg';
 
 
@@ -8,7 +8,8 @@ import {ReactComponent as SIlogo} from '../../assets/icons/silogo.svg';
         render(){
             return (
             <div id="footer" className="d-flex flex-column align-items-center justify-content-center pb-0 mb-0" >
-            <Logo className="mt-5"/>
+            {/* <Logo className="mt-5"/> */}
+            <img className="mt-5" src={path} />
             <p className="mt-3 mb-5 text-muted foottext">Ajay Kumar Garg Engineering College, Ghaziabad</p>
             <div class="row text-light">
             <div class="col-sm"></div>

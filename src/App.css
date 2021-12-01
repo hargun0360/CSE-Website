@@ -12,7 +12,7 @@
 }
 
 .hrline{
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.295);
   height: 1px;
   width: 100%;
 }
@@ -139,10 +139,18 @@ color:#1F842E !important;
   color: #3f95ea;
 }
 
+.greenhead{
+  color: #1F842E;
+}
 
 .silogo {
   height: 1.1rem;
   margin-left: 0.6rem;
+}
+
+.smallimg{
+  max-width:70%;
+  height: auto;
 }
 
 
@@ -187,5 +195,20 @@ color:#1F842E !important;
   #footer{
     background-color: #1F1F1F;
   }
+  
+}
+
+
+@media only screen and (max-width:1000px) {
+  
+#home{
+  background-image: none;
+}
+
+}
+
+
+@media only screen and (max-width:425px) {
+
   
 }
