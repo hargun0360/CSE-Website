@@ -154,6 +154,13 @@ color:#1F842E !important;
 }
 
 
+@media only screen and (min-width:425px) {
+
+  .smallimg{
+    display: none;
+  }
+}
+
 @media only screen and (max-width:480px) {
 
   .si-text{
