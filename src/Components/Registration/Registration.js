@@ -11,15 +11,13 @@ import { Table } from "react-bootstrap";
             
             {/* <Table bordered > */}
             
-                <Table bordered >
-                <thead>
-                    <tr>
+                <Table bordered>
+            <tbody>
+            <tr>
                         <th>Early Birds</th>
                         <th>Indian Author</th>
                         <th>Foreign Author</th>
                     </tr>
-                </thead>
-            <tbody>
             <tr>
                 <td> Participants from Industries </td> 
                 <td>Rs. 7000</td>

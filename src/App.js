@@ -8,6 +8,7 @@ import Timelines from './Components/Timelines/Timelines';
 import Plan from './Components/Plan/Plan';
 import Accomodation from './Components/Accomodation/Accomodation';
 import Registration from './Components/Registration/Registration';
+import Committee from './Components/Committee/Committee';
 import './App.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Registration />
       <Plan />
       <Accomodation />
+      <Committee />
     </div>
   );
 }
