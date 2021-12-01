@@ -246,7 +246,7 @@ Assistant Professor(EN) , AKGEC</td>
         </Table>
 
 {/* honorary */}
-            <Table borderless className="mb-5 borderbtm">
+            <Table borderless className="mb-5 borderbtm" responsive="md">
             <tbody>
             <tr>
                         <th colSpan="2">Honorary Advisory Committee</th>

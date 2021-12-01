@@ -9,7 +9,7 @@ class NavigationBar extends Component {
     render() {
         return(
 
-  <Navbar id="navbar-white" collapseOnSelect expand="md" bg="light" variant="light">
+  <Navbar sticky="top"  id="navbar-white" collapseOnSelect expand="lg" bg="light" variant="light">
     <Container>
       <Navbar.Brand href="#home">
         <Logo />
@@ -22,12 +22,12 @@ class NavigationBar extends Component {
       
     </Nav>
     <Nav>
-      <Nav.Link className="navlinks-grey" href="#deets">Motivation</Nav.Link>
-      <Nav.Link className="navlinks-grey" href="#deets">Conference Theme</Nav.Link>
-      <Nav.Link className="navlinks-grey" href="#deets">Date and Venue</Nav.Link>
-      <Nav.Link className="navlinks-grey" href="#deets">Call for Papers</Nav.Link>
-      <Nav.Link className="navlinks-grey" href="#deets">Important Timelines</Nav.Link>
-      <Nav.Link className="navlinks-grey" href="#deets">Registration Fee</Nav.Link>      
+      <Nav.Link className="navlinks-grey navlinks-top" href="#motivation">Motivation</Nav.Link>
+      <Nav.Link className="navlinks-grey navlinks-top" href="#theme">Conference Theme</Nav.Link>
+      <Nav.Link className="navlinks-grey navlinks-top" href="#date">Date and Venue</Nav.Link>
+      <Nav.Link className="navlinks-grey navlinks-top" href="#call">Call for Papers</Nav.Link>
+      <Nav.Link className="navlinks-grey navlinks-top" href="#timeline">Important Timelines</Nav.Link>
+      <Nav.Link className="navlinks-grey navlinks-top" href="#registration">Registration Fee</Nav.Link>      
     </Nav>
   </Navbar.Collapse>
 

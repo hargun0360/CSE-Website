@@ -5,7 +5,7 @@ import { Table } from "react-bootstrap";
             
         render(){
             return (
-            <div id="theme">
+            <div id="registration">
             <div className="container" >
             <h1 className="mt-5 mb-3 green-heading">Registration Fees</h1>
             

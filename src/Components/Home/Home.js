@@ -23,7 +23,7 @@ class Home extends Component {
             </div>
 
             {/* <Left className="mt-4 mb-0" /> */}
-            <div className="container" >
+            <div className="container" id="motivation" >
             <h1 className="mt-5 pt-5 mb-3 green-heading">Motivation</h1>
             <p className="bold-text">It is witnessed that in the past few years global warming issues are trending high. The cost of fossil fuel is increasing enormously and affecting the economic growth of the Nation. The production of Petrol, diesel and petroleum gas for the year 2022 is on hold due to decision taken by the summit.   It is therefore imperative to spread the awareness about environmental and economic issues created by the use of fossil fuel and the importance of stepping towards the green energy technology. The aim of this conference is to provide a forum for engineers, researchers, and specialists from academia, research centers and industry worldwide to discuss and present the latest developments and challenges in Green Energy and computational intelligence for sustainable Technologies.</p>
             </div>

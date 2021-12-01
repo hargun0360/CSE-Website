@@ -10,6 +10,7 @@ import Accomodation from './Components/Accomodation/Accomodation';
 import Registration from './Components/Registration/Registration';
 import Committee from './Components/Committee/Committee';
 import Gallery from './Components/Gallery/Gallery';
+import Budget from './Components/Budget/Budget';
 import './App.css';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       <Accomodation />
       <Committee />
       <Gallery />
+      <Budget />
     </div>
   );
 }
