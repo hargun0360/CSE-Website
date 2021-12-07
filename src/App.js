@@ -17,6 +17,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
+      <div>
       <Home />
       <Theme />
       <Date />
@@ -28,6 +29,7 @@ function App() {
       <Committee />
       <Gallery />
       <Budget />
+      </div>
     </div>
   );
 }

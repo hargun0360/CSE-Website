@@ -4,9 +4,9 @@ import React, { Component } from "react";
             
         render(){
             return (
-            <div id="theme">
+            <div id="theme" className="target">
             <div className="container" >
-            <h1 className="mt-5 mb-3 green-heading">Plans for Publication of Proceedings </h1>
+            <h1 className="mb-3 green-heading">Plans for Publication of Proceedings </h1>
             <ul>
                 <li>The proceedings will be published by Springer and online.</li>
     <li>All the presented papers will be indexed in a Scopus Journal of Springer.</li>

@@ -5,9 +5,9 @@ import { Table } from "react-bootstrap";
             
         render(){
             return (
-            <div id="timeline">
+            <div id="timeline" className="target">
             <div className="container" >
-            <h1 className="mt-5 mb-3 green-heading">Important Timelines </h1>
+            <h1 className="mb-3 green-heading">Important Timelines </h1>
             
             <Table bordered >
   <tbody>

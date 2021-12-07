@@ -5,9 +5,9 @@ import { Table } from "react-bootstrap";
             
         render(){
             return (
-            <div id="registration">
+            <div id="registration" className="target">
             <div className="container" >
-            <h1 className="mt-5 mb-3 green-heading">Registration Fees</h1>
+            <h1 className="mb-3 green-heading">Registration Fees</h1>
             
             {/* <Table bordered > */}
             

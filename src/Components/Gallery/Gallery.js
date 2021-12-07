@@ -19,9 +19,9 @@ import image12 from "../../assets/about/image12.jpg";
             
         render(){
             return (
-            <div id="theme">
+            <div id="theme" className="target">
             <div className="container" >
-            <h1 className="mt-5 mb-3 green-heading">Image Gallery </h1>
+            <h1 className="mb-3 green-heading">Image Gallery </h1>
             </div>
             
             <Carousel itemsToShow={1} autoPlay={true} centerMode={true} emulateTouch={true} showThumbs={false} infiniteLoop={true} showStatus={false} >

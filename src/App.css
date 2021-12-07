@@ -110,8 +110,25 @@
   text-align: right;
 }
 
+p{
+  text-align: justify;
+}
+
 .tdborderequal{
   width: 50% !important;
+}
+
+
+.target::before {
+  content: "";
+  display: block;
+  height: 80px; /* fixed header height*/
+  margin: -50px 0 0; /* negative fixed header height */
+}
+
+#navbar-white{
+  background-color: #1F842E !important;
+  /* height: 60px; */
 }
 
 #footer{
@@ -123,11 +140,11 @@
 }
 
 .navlinks-top:hover, navlinks-top:active{
-color:#1F842E !important;
+color:rgb(218, 218, 218) !important;
 }
 
 .navlinks-top{
-  color: rgba(8, 8, 8, 0.507) !important;
+  color: white !important;
 }
 
 .si {
@@ -151,6 +168,11 @@ color:#1F842E !important;
 .smallimg{
   max-width:70%;
   height: auto;
+}
+
+.content-down{
+  padding-top: 200px;
+  background: red;
 }
 
 
@@ -216,6 +238,4 @@ color:#1F842E !important;
 
 
 @media only screen and (max-width:425px) {
-
-  
 }
