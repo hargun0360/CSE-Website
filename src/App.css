@@ -122,8 +122,8 @@ p{
 .target::before {
   content: "";
   display: block;
-  height: 80px; /* fixed header height*/
-  margin: -50px 0 0; /* negative fixed header height */
+  height: 80px; 
+  margin: -50px 0 0; 
 }
 
 #navbar-white{
@@ -225,6 +225,13 @@ color:rgb(218, 218, 218) !important;
     background-color: #1F1F1F;
   }
   
+  .target::before {
+    content: "";
+    display: block;
+    height: 320px; 
+    margin: -300px 0 0; 
+  }
+
 }
 
 
@@ -233,6 +240,13 @@ color:rgb(218, 218, 218) !important;
 #home{
   background-image: none;
 }
+
+/* .target::before {
+  content: "";
+  display: block;
+  height: 150px; 
+  margin: -100px 0 0; 
+} */
 
 }
 

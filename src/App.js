@@ -14,10 +14,17 @@ import Budget from './Components/Budget/Budget';
 import './App.css';
 
 function App() {
+  
+//   $("#navMenu").resize(function () {
+//     $('#godown').height($("#navMenu").height() + 10);
+// });
+
+// if ($("#navMenu").height() > $('#godown').height()) $('#godown').height($("#navMenu").height() + 10);
+
   return (
     <div className="App">
-      <Navbar />
-      <div>
+      <Navbar id="navMenu"/>
+      <div id="godown">
       <Home />
       <Theme />
       <Date />
