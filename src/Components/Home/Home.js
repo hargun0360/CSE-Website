@@ -20,7 +20,7 @@ class Home extends Component {
                 </div>
                 <h5 className="greytext mt-2 ">Advancements and Key Challenges in</h5>
                 <h2 className="text-uppercase greenhead bold-text display-4">Green Energy<br/>and Computing</h2>
-                <Calendar/> <h5 className="greytext d-inline m-auto">11-Nov-2022</h5>
+                <Calendar/> <h5 className="greytext d-inline m-auto">11-12 Nov 2022</h5>
             </div>
             <div className="container mt-4">
             <img src={path} className="smallimg"/>

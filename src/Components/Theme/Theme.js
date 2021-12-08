@@ -7,7 +7,7 @@ import React, { Component } from "react";
             <div id="theme" className="target">
             <div className="container" >
             <h1 className="mb-3 green-heading">Conference Theme</h1>
-            <p>The international conference on Advancements & Key Challenges in Green Energy and Computing (AKGEC-2022) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. The focus area and tracks of the conference would be:</p>
+            <p>The International Conference on Advancements & Key Challenges in Green Energy and Computing (AKGEC-2022) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. The focus area and tracks of the conference would be:</p>
             <p><span className="bold-text">Track 1:</span> Green Energy, Electric Drives and Smart Grid<br/>
             <span className="bold-text">Track 2:</span> Computing and Security<br/>
             <span className="bold-text">Track 3:</span> Sustainable Technologies and Development<br/>

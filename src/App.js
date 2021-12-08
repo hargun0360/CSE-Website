@@ -11,6 +11,7 @@ import Registration from './Components/Registration/Registration';
 import Committee from './Components/Committee/Committee';
 import Gallery from './Components/Gallery/Gallery';
 import Budget from './Components/Budget/Budget';
+import Footer from './Components/Footer/Footer';
 import './App.css';
 
 function App() {
@@ -35,7 +36,9 @@ function App() {
       <Accomodation />
       <Committee />
       <Gallery />
-      <Budget />
+      {/* <Budget /> */}
+      <div className="plain"></div>
+      <Footer  />
       </div>
     </div>
   );
