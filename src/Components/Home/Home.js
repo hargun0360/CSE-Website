@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import path from '../../assets/icons/rightsmall.svg';
+import logopath from '../../assets/icons/enlogo.png';
 import {ReactComponent as Calendar} from '../../assets/icons/calendar.svg';
 import Gallery from '../Gallery/Gallery'
 
@@ -8,13 +9,9 @@ class Home extends Component {
     render(){
       return (
         <div id="home">
-            {/* <div className="d-flex justify-content-end align-items-center">
-                <div>hi</div>
-                <Right />
-            </div> */}
 
             <div className="container pt-5">
-                
+                <img className="enlogo" src={logopath} height="100px" /><br/>
                 <div id="bg-green" className="d-inline-block p-2 mt-3">
                 1st INTERNATIONAL CONFERENCE on
                 </div>

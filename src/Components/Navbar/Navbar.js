@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Navbar, Nav, NavDropdown} from 'react-bootstrap'
 import Container from 'react-bootstrap/Container';
 // import {ReactComponent as Logo} from '../../assets/icons/akgec.svg';
-import path from '../../assets/icons/logo1.jpeg';
+import path from '../../assets/icons/navlogo.png';
 
 class NavigationBar extends Component {
     state = { clicked: false }
