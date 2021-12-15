@@ -27,6 +27,13 @@ class Home extends Component {
             <p>It is witnessed that in the past few years global warming issues are trending high. The cost of fossil fuel is increasing enormously and affecting the economic growth of the Nation. The production of Petrol, diesel and petroleum gas for the year 2022 is on hold due to decision taken by the summit.   It is therefore imperative to spread the awareness about environmental and economic issues created by the use of fossil fuel and the importance of stepping towards the green energy technology. The aim of this conference is to provide a forum for engineers, researchers, and specialists from academia, research centers and industry worldwide to discuss and present the latest developments and challenges in Green Energy and computational intelligence for sustainable Technologies.</p>
             </div> */}
 
+<div id="date" className="target mt-5">
+            <div className="container" >
+            <h1 className="mb-3 green-heading">Date and Venue of the Conference</h1>
+            <p>The conference hosted by Department of Electrical and Electronics Engineering, will be held offline at AKGEC, Ghaziabad, Uttar Pradesh, India from 11 Nov. 2022 to 12 Nov. 2022. The conference will include regular sessions with poster/oral presentations, global and technical sessions, panel discussions and poster presentations organized in AKGEC.</p>
+            </div>
+            </div>
+
 <div id="theme" className="target">
             <div className="container mb-5" >
             <h1 className="mb-3 green-heading">Conference Theme</h1>
