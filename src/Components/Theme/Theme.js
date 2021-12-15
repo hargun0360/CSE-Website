@@ -6,12 +6,7 @@ import React, { Component } from "react";
             return (
             <div id="theme" className="target">
             <div className="container" >
-            <h1 className="mb-3 green-heading">Conference Theme</h1>
-            <p>The International Conference on Advancements & Key Challenges in Green Energy and Computing (AKGEC-2022) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. The focus area and tracks of the conference would be:</p>
-            <p><span className="bold-text">Track 1:</span> Green Energy, Electric Drives and Smart Grid<br/>
-            <span className="bold-text">Track 2:</span> Computing and Security<br/>
-            <span className="bold-text">Track 3:</span> Sustainable Technologies and Development<br/>
-            <span className="bold-text">Track 4:</span> Artificial Intelligence and Embedded Systems</p>
+            <h1 className="mb-3 green-heading">Track Details</h1>
 
             <h5 className="extra-bold-text mt-4">Track 1: Green Energy, Electric Drives and Smart Grid</h5>
             <p>Renewable Energy Sources: Solar Energy: Solar PV performance, Solar cell materials and solar cell power plant, Islanded and hybrid modes and control, Plastic solar cells, Solar Thermal Energy: solar collectors and their performance, solar thermal power plants, challenges. Wind Energy: Wind energy technologies, Wind energy conversion systems, Islanding and Grid integration, Wind Energy -environmental impact, Wind structural designs and models, applications. Tidal energy, Geothermal energy, Nuclear energy, Biomass and biofuels, Waste-to-energy, Fuel cells, Energy integration and storage, Distributed Energy Systems, Micro grids, Distribution System Control, Power Electronics and Drives, Smart grids: Architecture, Sizing, Topologies and control methods for Power system applications. Energy storage methods, Energy conservation and auditing, Energy market, Energy Efficiency: Demand side management, modeling, design and simulation; Electric Vehicles: Charging, Battery Management System, Hybrid Vehicles, Grid Integration of Electric Vehicles.</p>

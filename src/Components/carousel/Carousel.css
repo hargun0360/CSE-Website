@@ -1,0 +1,23 @@
+.carousel-img {
+    width: auto !important;
+    height: 20rem !important;
+    padding-top: 0.5rem !important;
+
+}
+
+
+
+
+@media only screen and (max-width: 768px) {
+    .carousel-img {
+        height: 16rem !important;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .carousel-img {
+        width: 78vw !important;
+        height: 12rem !important;
+    }
+}

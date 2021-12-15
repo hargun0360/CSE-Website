@@ -1,0 +1,46 @@
+.register-cntnr {
+    margin: 5rem 0;
+    padding: 3.5rem 12vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(../../assets/register-bg.svg);
+    background-size: cover;
+    font-weight: bold;
+    font-size: 1.8rem;
+    line-height: 3.1rem;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+}
+
+.register-btn {
+    outline: none;
+    background: #FFFFFF;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    color: #0098ED;
+    border: none;
+    transition: transform 0.4s ease-in-out;
+}
+
+.register-btn:hover {
+    transform: translateY(-3px);
+}
+
+@media only screen and (max-width:786px) {
+    .register-cntnr {
+        padding: 3rem 1.5rem;
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+    }
+
+    .register-btn {
+        font-size: 1rem;
+    }
+}

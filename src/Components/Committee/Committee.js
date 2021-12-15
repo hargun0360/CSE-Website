@@ -7,7 +7,7 @@ import { Table } from "react-bootstrap";
             return (
             <div id="theme" className="target">
             <div className="container" >
-            <h1 className="mb-3 green-heading">Organizing Committee </h1>
+            <h1 className="mb-3 green-heading">Committee </h1>
             
 
             <Table borderless className="mb-5 borderbtm">

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import path from '../../assets/icons/logo1.png';
+import path from '../../assets/icons/akglogo.png';
 import {ReactComponent as SIlogo} from '../../assets/icons/silogo.svg';
 
 
