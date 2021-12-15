@@ -13,7 +13,7 @@ import Award from './pages/Award/Award';
 function App() {
   return (
     <div className="App">
-    <Router basename="/">
+    <Router basename={window.location.pathname || ''}>
     <Switch>
     <Route path='/' exact component={Home} />
     <Route path='/about' component={About} />
