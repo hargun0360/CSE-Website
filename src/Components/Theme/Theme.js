@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Table } from "react-bootstrap";
 
     class Theme extends Component {
             
@@ -20,7 +21,56 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
             
             <h5 className="extra-bold-text mt-4">Track 4: Artificial Intelligence and Embedded Systems </h5>
             <p>Artificial Intelligence, Machine Learning, Deep Learning, Bio-inspired Optimization based power control modeling, protection and simulation, Monitoring topologies: Community Information Systems, Remote Sensing, Geographic Information System and GPS, Disaster Management, E-Systems, Informatics Hybrid Evolutionary Algorithms, Hybrid Intelligent Systems; Neural Networks, Neuro-Fuzzy Models and Applications, Neuro Informatics Open Source: Challenges and Opportunities, Smart Grid Communication topologies for monitoring and control: Power-line Communications, Antenna and Wave Propagation, Green Communication Management. Smart sensors, VLSI Systems, Nano Electronics, FPGA Development, System on Chip, Embedded Applications, Embedded Memory Architecture, System Automation.</p>
+            
+            
+            <h1 className="mt-5 mb-3 green-heading">Plans for Publication of Proceedings</h1>
+            <p>
+• The proceedings will be published by Springer and online.<br/>
+• All the presented papers will be indexed in a Scopus Journal of Springer.<br/>
+• Best paper award will be given for each theme.
+</p>
+</div>
+
+<div className="container" >
+            <h1 className="mt-5 mb-3 green-heading">Important Timelines</h1>
+            
+            {/* <Table bordered > */}
+            
+                <Table bordered>
+            <tbody>
+            <tr>
+                        {/* <th>Early Birds</th> */}
+                        <th>Invitation for Papers </th>
+                        <th>15th January 2022</th>
+                    </tr>
+            <tr>
+                {/* <td> Participants from Industries </td>  */}
+                <td>Submission of Full Paper </td>
+                <td>15th April 2022</td>
+            </tr>
+            <tr>
+                {/* <td> Academia </td>  */}
+                <td>Notification and Date of Acceptance </td>
+                <td>31st August 2022</td>
+            </tr>
+            <tr>
+                {/* <td> Research Scholars and students </td>  */}
+                <td>Date of Registration and camera ready copy </td>
+                <td>10th  October 2022</td>
+            </tr>
+            <tr>
+                {/* <td> Research Scholars and students </td>  */}
+                <td>Conference Date</td>
+                <td>11-12th November 2022</td>
+            </tr>
+
+            </tbody>
+        </Table>
+
+
             </div>
+
+            
             </div>
             );
         }          
