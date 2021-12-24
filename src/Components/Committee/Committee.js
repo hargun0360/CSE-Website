@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Table } from "react-bootstrap";
 
     class Theme extends Component {
-            
+        
         render(){
             return (
             <div id="theme" className="target">
@@ -46,7 +46,7 @@ import { Table } from "react-bootstrap";
                         {/* <th className="noborder">Patron</th> */}
                     </tr>
             <tr>
-                <td className="tdborder threecols"> Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td> 
+                <td className="tdborder threecols">Dr. Sunita Yadav<br/>Professor & Head (CSE), AKGEC</td> 
                 <td className="tdborder threecols">Dr. Anu Chaudhary<br/>Professor & Head (IT), AKGEC</td>
                 <td className="tdborder threecols">Dr. Neelesh Kumar Gupta<br/>Professor & Head (ECE), AKGEC</td>
             </tr>
@@ -249,7 +249,7 @@ Assistant Professor(EN) , AKGEC</td>
             <Table borderless className="mb-5 borderbtm" responsive="md">
             <tbody>
             <tr>
-                        <th colSpan="2">Honorary Advisory Committee</th>
+            <th colSpan="2">Honorary Advisory Committee</th>
             </tr>
 
             <tr>
@@ -260,123 +260,125 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">1</td>
-            <td className="nametd">Prof(Dr) Saifur Rehman</td>
-            <td className="afftd">The Bradley Department of Electrical and computer engineering, Virginia Tech, College of Engineering, United States </td>
+            <td className="nametd">Prof. Ned Mohan</td>
+            <td className="afftd">Regents Professor, University of Minnesota, United States</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">2</td>
-            <td className="nametd">Prof. Ned Mohan</td>
-            <td className="afftd">University of Minnesota, United States</td>
+            <td className="nametd">Prof. Ambrish Chandra</td>
+            <td className="afftd">Professor, Ecole de Technologie Superieure, University of Quebec, Montreal, Quebec</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">3</td>
-            <td className="nametd">Prof. Ambrish Chandra</td>
-            <td className="afftd">Ecole de Technologie Superiere, Montreal, Quebec</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">4</td>
-            <td className="nametd">Dr. Shady H.E. Abdul Aleem</td>
-            <td className="afftd">High Valley Institute for Engineering & Technology, Egypt</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">5</td>
             <td className="nametd">Prof. Herbert H.C Lu</td>
             <td className="afftd">University of Western Australia </td>
             </tr>
 
             <tr>
-            <td className="snowidth text-center">6</td>
+            <td className="snowidth text-center">4</td>
             <td className="nametd">Dr. Parimita Mohanty</td>
-            <td className="afftd">UNEP, Bangkok, TERI</td>
+            <td className="afftd">Programme Management Officer, UNEP, Bangkok, TERI</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">5</td>
+            <td className="nametd">Mr. Yogesh Ratra</td>
+            <td className="afftd">Sr. Control Systems Design Engineer, Fluor Corporation, Canada </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">6</td>
+            <td className="nametd">Tzung-Pei Hong</td>
+            <td className="afftd">Distinguished Professor, National University of Kaohsiung, Taiwan</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">7</td>
-            <td className="nametd">Mr. Yogesh Ratra</td>
-            <td className="afftd">Fluor Corporation,Canada </td>
+            <td className="nametd">Dr. Valentina E.Balas</td>
+            <td className="afftd">Professor, Aurel Vlaicu University of Arad, Romania</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">8</td>
-            <td className="nametd">Tzung-Pei Hong</td>
-            <td className="afftd">National University of Kaohsiung, Taiwan</td>
+            <td className="nametd">Dr. Valentina E.Balas</td>
+            <td className="afftd">Professor, Cihan University, Iraq</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">9</td>
-            <td className="nametd">Garabed Boghossian</td>
-            <td className="afftd">Haigazian University, Lebanon</td>
+            <td className="nametd">Dr. Yu-Chen Hu</td>
+            <td className="afftd">Distinguished Professor, Providence University, Shalu, Taiwan</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">10</td>
-            <td className="nametd">Dr. Valentina E.Balas</td>
-            <td className="afftd">Aurel Vlaicu University</td>
+            <td className="nametd">Frede Blaabjerg</td>
+            <td className="afftd">Professor, AAU Energy</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">11</td>
-            <td className="nametd">Seyed M.K. Sadr</td>
-            <td className="afftd">University of Exeter, United Kingdom</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">12</td>
-            <td className="nametd">Wael R. Abdulmajeed</td>
-            <td className="afftd">University of Baghdad</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">13</td>
-            <td className="nametd">Dr. Shailaditya Verma</td>
-            <td className="afftd">Higher Colleges of Technology, Fujairah Women’s College</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">14</td>
-            <td className="nametd">Hatem Hatef Abdulkadim Altae</td>
-            <td className="afftd">Cihan University, Iraq</td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">15</td>
-            <td className="nametd">Dr. Yu-Chen Hu</td>
-            <td className="afftd">Providence University, Shalu, Taiwan </td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">16</td>
-            <td className="nametd">Frede Blaabjerg</td>
-            <td className="afftd">Professor, AAU Energy </td>
-            </tr>
-
-            <tr>
-            <td className="snowidth text-center">17</td>
             <td className="nametd">Muhammad H Rashid</td>
             <td className="afftd">Professor, Florida Polytechnic University</td>
             </tr>
 
             <tr>
+            <td className="snowidth text-center">12</td>
+            <td className="nametd">Prasad Enjeti</td>
+            <td className="afftd">Professor, Electrical & Computer Engineering
+Texas A&M University</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">13</td>
+            <td className="nametd">Kaushik Rajashekara
+</td>
+            <td className="afftd">Distinguished Professor of Engineering, University of Houston</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">14</td>
+            <td className="nametd">Wael R. Abdulmajeed</td>
+            <td className="afftd">Postgraduate Studies Coordinator, University of Baghdad</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">15</td>
+            <td className="nametd">Dr. G Bhuvaneshwari</td>
+            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">16</td>
+            <td className="nametd">Dr. Bhim Singh</td>
+            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">17</td>
+            <td className="nametd">Dr. Pramod Agarwal</td>
+            <td className="afftd">Professor, Indian Institute of Technology Roorkee</td>
+            </tr>
+
+            <tr>
             <td className="snowidth text-center">18</td>
-            <td className="nametd">Dr. Harish Sharma Krishnamoorthy</td>
-            <td className="afftd">Assistant Professor, university of Houston</td>
+            <td className="nametd">Dr. R. Balasubramanian</td>
+            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">19</td>
-            <td className="nametd">Prasad Enjeti</td>
-            <td className="afftd">Professor, Electrical & Computer Engineering, Texas A&M University</td>
+            <td className="nametd">Seyed M.K. Sadr</td>
+            <td className="afftd">Postdoctoral Research Fellow, University of Exeter, United Kingdom</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">20</td>
-            <td className="nametd">Kaushik Rajashekara</td>
-            <td className="afftd">Distinguished Professor of Engineering, ECE Department at University of Houston </td>
+            <td className="nametd">Dr. Shady H.E. Abdul Aleem</td>
+            <td className="afftd">Associate Professor, High Valley Institute for Engineering & Technology, Egypt</td>
             </tr>
 
 
@@ -389,29 +391,29 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">22</td>
-            <td className="nametd">Dr. G Bhuvaneshwari</td>
-            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+            <td className="nametd">Dr. Harish Sharma Krishnamoorthy</td>
+            <td className="afftd">Assistant Professor, University of Houston</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">23</td>
-            <td className="nametd">Dr. Bhim Singh</td>
-            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+            <td className="nametd">Wael R. Abdulmajeed</td>
+            <td className="afftd">Postgraduate Studies Coordinator, University of Baghdad</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">24</td>
-            <td className="nametd">Dr. Pramod Agarwal</td>
-            <td className="afftd">Professor, Indian Institute of Technology Roorkee</td>
+            <td className="nametd">Garabed Boghossian</td>
+            <td className="afftd">Lecturer, Haigazian University, Lebanon</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">25</td>
-            <td className="nametd">Dr. R. Balasubramanian</td>
-            <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+            <td className="nametd">Dr. Shailaditya Verma</td>
+            <td className="afftd">Lecturer, Higher Colleges of Technology, Fujairah Women’s College</td>
             </tr>
 
 
@@ -445,11 +447,11 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">3</td>
-            <td className="nametd">Dr. Arun Kumar Verma</td>
-            <td className="afftd">Assistant Professor, EE, MNIT, Jaipur</td>
+            <td className="nametd">Dr. Mohmmad Rizwan</td>
+            <td className="afftd">Professor, DTU, Delhi</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="snowidth text-center">4</td>
             <td className="nametd">Dr. Kirti Pal</td>
             <td className="afftd">Associate Professor, GBU, Greater Noida</td>
@@ -460,23 +462,35 @@ Assistant Professor(EN) , AKGEC</td>
             <td className="nametd">Dr. Mohmmad Rizwan</td>
             <td className="afftd">Professor, DTU, Delhi</td>
             </tr>
-
+*/}
             <tr>
-            <td className="snowidth text-center">6</td>
+            <td className="snowidth text-center">4</td>
             <td className="nametd">Dr. Ashish Srivastava</td>
             <td className="afftd">Professor, EE, Manipal University, Jaipur, Rajasthan </td>
-            </tr>
+            </tr> 
 
             <tr>
-            <td className="snowidth text-center">7</td>
+            <td className="snowidth text-center">5</td>
             <td className="nametd">Dr. Sarsingh Gao</td>
             <td className="afftd">Professor, NERIST, Arunachal Pradesh</td>
             </tr>
 
             <tr>
-            <td className="snowidth text-center">8</td>
+            <td className="snowidth text-center">6</td>
             <td className="nametd">Dr. J.S. Lather</td>
             <td className="afftd">Professor, NIT, Kurukshetra</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">7</td>
+            <td className="nametd">Dr. Shailesh Tiwari</td>
+            <td className="afftd">Director, KEC, Ghaziabad, U.P.</td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">8</td>
+            <td className="nametd">Dr. Ajay Shekhar Pandey</td>
+            <td className="afftd">Professor, EE, KNIT Sultanpur</td>
             </tr>
 
             <tr>
@@ -487,7 +501,7 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">10</td>
-            <td className="nametd">Dr. Ashish Kumar Singh</td>
+            <td className="nametd">Dr. Asheesh Kumar Singh</td>
             <td className="afftd">MNNIT, Allahabad (Pryagraj)</td>
             </tr>
 
@@ -511,8 +525,8 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">14</td>
-            <td className="nametd">Ms. Meenu Singhal</td>
-            <td className="afftd">Vice President, Schneider Electric</td>
+            <td className="nametd">Dr. Manish Saraswat</td>
+            <td className="afftd">Professor and head, ME, Lloyd College, Greater Noida</td>
             </tr>
 
             <tr>
@@ -523,103 +537,105 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">16</td>
-            <td className="nametd">Dr. Vikas Bhadoria</td>
-            <td className="afftd">Associate Professor, ABESEC </td>
+            <td className="nametd">Dr. R. P. Maheshwari</td>
+            <td className="afftd">Ex-Professor, Indian Institute of Technology Roorkee </td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">17</td>
-            <td className="nametd">Dr. Vivek Shrivastava</td>
-            <td className="afftd">Associate Professor, NIT Delhi</td>
+            <td className="nametd">Dr. Arvind Kumar Sharma</td>
+            <td className="afftd">Professor, KIET, Ghaziabad, U.P</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">18</td>
-            <td className="nametd">Dr. Aseem Chandel</td>
-            <td className="afftd">Associate Professor, Govt. Engineering College, Mainpuri, UP</td>
+            <td className="nametd">Dr. Monika Jain</td>
+            <td className="afftd">Professor & Head, ITS, Greater Noida</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">19</td>
-            <td className="nametd">Dr. R. P. Maheshwari</td>
-            <td className="afftd">Ex-Professor, Indian Institute of Technology Roorkee</td>
+            <td className="nametd">Ms. Meenu Singhal</td>
+            <td className="afftd">Vice President, Schneider Electric</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">20</td>
-            <td className="nametd">Dr. Pawan Kumar</td>
-            <td className="afftd">Assistant Professor, Thapar Institute of Engineering & Technology, Patiala</td>
-            </tr>
-
-
-            <tr>
-            <td className="snowidth text-center">21</td>
-            <td className="nametd">Dr. Monika Jain</td>
-            <td className="afftd">Professor & Head, ITS, Greater Noida</td>
-            </tr>
-
-
-            <tr>
-            <td className="snowidth text-center">22</td>
-            <td className="nametd">Dr. Sachin Singh</td>
-            <td className="afftd">Institute of Engineering & Technology, Lucknow, U.P</td>
-            </tr>
-
-
-            <tr>
-            <td className="snowidth text-center">23</td>
-            <td className="nametd">Dr. Jay Singh</td>
-            <td className="afftd">Associate Professor, G.L. Bajaj Greater Noida</td>
-            </tr>
-
-
-            <tr>
-            <td className="snowidth text-center">24</td>
             <td className="nametd">Dr. Anish Gupta</td>
             <td className="afftd">Assistant Director, Chandigarh University</td>
             </tr>
 
 
             <tr>
+            <td className="snowidth text-center">21</td>
+            <td className="nametd">Dr. Vikas Bhadoria</td>
+            <td className="afftd">Associate Professor, ABESEC</td>
+            </tr>
+
+
+            <tr>
+            <td className="snowidth text-center">22</td>
+            <td className="nametd">Dr. Vivek Shrivastava</td>
+            <td className="afftd">Associate Professor, NIT Delhi</td>
+            </tr>
+
+
+            <tr>
+            <td className="snowidth text-center">23</td>
+            <td className="nametd">Dr. Aseem Chandel</td>
+            <td className="afftd">Associate Professor, Govt. Engineering College, Mainpuri, UP</td>
+            </tr>
+
+
+            <tr>
+            <td className="snowidth text-center">24</td>
+            <td className="nametd">Dr. Jay Singh</td>
+            <td className="afftd">Associate Professor, G.L. Bajaj Greater Noida</td>
+            </tr>
+
+
+            <tr>
             <td className="snowidth text-center">25</td>
-            <td className="nametd">Dr. Shailesh Tiwari</td>
-            <td className="afftd">Director, KEC, Ghaziabad, U.P.</td>
+            <td className="nametd">Dr. Kirti Pal</td>
+            <td className="afftd">Associate Professor, GBU, Greater Noida</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">26</td>
-            <td className="nametd">Dr. Ajay Shekhar Pandey</td>
-            <td className="afftd">Professor, EE, KNIT Sultanpur</td>
-            </tr>
-
-
-            <tr>
-            <td className="snowidth text-center">27</td>
-            <td className="nametd">Dr. Ashish Malik</td>
+            <td className="nametd">Dr. Ashish Malik
+</td>
             <td className="afftd">Director, Axis Group of Colleges, Kanpur, U.P</td>
             </tr>
 
 
             <tr>
+            <td className="snowidth text-center">27</td>
+            <td className="nametd">Dr. Pawan Kumar</td>
+            <td className="afftd">Assistant Professor, Thapar Institute of Engineering & Technology, Patiala</td>
+            </tr>
+
+
+            <tr>
             <td className="snowidth text-center">28</td>
-            <td className="nametd">Dr. Manish Saraswat</td>
-            <td className="afftd">Professor and head, ME, Lloyd College, Greater Noida</td>
+            <td className="nametd">Dr. Sachin Singh</td>
+            <td className="afftd">Assistant Professor, Institute of Engineering & Technology, Lucknow, U.P</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">29</td>
-            <td className="nametd">Dr. Preeti </td>
-            <td className="afftd">Assistant Professor, Vishwakarma Skill University </td>
+            <td className="nametd">Dr. Arun Kumar Verma</td>
+            <td className="afftd">Assistant Professor, EE, MNIT, Jaipur</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">30</td>
-            <td className="nametd">Dr. Arvind Kumar Sharma</td>
-            <td className="afftd">Professor, KIET, Ghaziabad, U.P</td>
+            <td className="nametd">Dr. Preeti </td>
+            <td className="afftd">Assistant Professor, Vishwakarma Skill University 
+</td>
             </tr>
 
 

@@ -2,6 +2,12 @@ import React from 'react'
 import AboutCarousel from '../../components/carousel/AboutCarousel';
 import Footer from '../../components/footer/Footer';
 import Header from '../../components/Header/Header'
+import image1 from '../../assets/image1.jpg'
+import image2 from '../../assets/image2.jpg'
+import image3 from '../../assets/image3.jpg'
+import image4 from '../../assets/image4.jpg'
+import image5 from '../../assets/image5.jpg'
+import image6 from '../../assets/image6.jpg'
 
 function About() {
   return (
@@ -37,7 +43,21 @@ Situated on the Delhi-Hapur Bypass (NH-24), the college is a short trip by road/
             <h1 className="mb-3 mt-5 green-heading">About Ghaziabad </h1>
             <p>
 Ghaziabad is a city in the Indian state of Uttar Pradesh and a part of the NCR. It is the administrative headquarters of Ghaziabad district and is the largest city in western Uttar Pradesh, with a population of 1,729,000.Ghaziabad Municipal Corporation is divided into 5 zones - City Zone, Kavi Nagar Zone, Vijay Nagar Zone, Mohan Nagar Zone and Vasundhara Zone. The Municipal Corporation comprises 100 wards. Well connected by roads and railways, it is a major rail junction for North India. It is sometimes referred to as the "Saya of Uttar Pradesh" because it is close to New Delhi, on the main route into Uttar Pradesh. Recent construction works have led to the city being described by a City Mayors Foundation survey as the second fastest-growing in the world. Situated in the Upper Gangetic Plains, the city has two major divisions separated by the Hindon River, namely Trans-Hindon on the west and Cis-Hindon on the east. 
-</p>  
+<br/>
+<br/>
+</p> 
+<br/>
+<div className='d-flex flex-column flex-sm-row justify-content-around flexbox'>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image4} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image5} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image6} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+      </div>
+      <br/><br/>
+      <p>The city of Ghaziabad was founded in 1740 A.D. by Ghazi-ud-Din, who served as a wazir in the court of Mughal emperor Muhammad Shah, and named it as "Ghaziuddinnagar" after his own name. The name "Ghaziuddinnagar" was shortened to its present form, i.e. "Ghaziabad" with the opening of the Railways in 1864. During the Mughal period, Ghaziabad and especially the banks of the Hindon in Ghaziabad, remained a picnic spot for the Mughal royal family. 
+<br/>
+<br/>
+Establishment of the Scientific Society here, during the same period is considered as a milestone of the educational movement launched by Syed Ahmad Khan. The Scinde, Punjab & Delhi Railway, connecting Delhi and Lahore, up till Ambala through Ghaziabad was opened in the same year. With the completion of the Amritsar-Saharanpur-Ghaziabad line of the Sind, Punjab and Delhi Railway in 1870, Delhi was connected to Multan through Ghaziabad, and Ghaziabad became the junction of the East Indian Railway and Sind, Punjab and Delhi Railway.
+</p> 
             </div>
 
             <div className="container mb-5" >
@@ -47,8 +67,19 @@ Ghaziabad is a city in the Indian state of Uttar Pradesh and a part of the N
 <br/><br/>
 The state is bordered by Rajasthan to the west, Haryana, Himachal Pradesh and Delhi to the northwest, Uttarakhand and an international border with Nepal to the north, Bihar to the east, Madhya Pradesh to the south, and touches the states of Jharkhand and Chhattisgarh to the southeast. It covers 240,928 km2 (93,023 sq mi), equal to 7.3% of the total area of India, and is the fourth-largest Indian state by area. Though long known for sugar production, the state's economy is now dominated by the services industry. The service sector comprises travel and tourism, hotel industry, real estate, insurance and financial consultancies. The economy of Uttar Pradesh is the second-largest state economy in India with ₹21.73 lakh crore (US$290 billion) in gross domestic product and a per capita GSDP of ₹95,000 (US$1,300).President's rule has been imposed in Uttar Pradesh ten times since 1968, for different reasons and for a total of 1,700 days. The state has currently two international airports, Chaudhary Charan Singh Airport (Lucknow) and Lal Bahadur Shastri Airport (Varanasi). 
 <br/><br/>
-Uttar Pradesh ranks first in domestic tourist arrivals among all states of India with more than 71 million, owing to its rich and varied topography, vibrant culture, festivals, monuments, ancient places of worship, and viharas. Uttar Pradesh is also home to three World Heritage Sites: the Taj Mahal, Agra Fort, and the nearby Fatehpur Sikri. Uttar Pradesh is a favoured tourist destination in India due to the location of Taj Mahal, nearly 69 lakhs (6.9 million) people visited the Taj Mahal in 2018–19, up 6% from the previous year when the number stood at 64 lakhs (6.4 million). The monument earned almost ₹78 crore (US$10 million) in ticket sales in 2018–19. The state's tourism industry is a major contributor to the state's economy, growing at the rate of 21.60%.
 </p>
+
+<div className='d-flex flex-column flex-sm-row justify-content-around flexbox'>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image1} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image2} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+        <div className='col-3 mb-2 pe-2 flexdivs'><img src={image3} style={{maxHeight:"100%", maxWidth:"100%",borderRadius:"5px"}} /></div>
+      </div>
+      <br/><br/>
+
+Uttar Pradesh ranks first in domestic tourist arrivals among all states of India with more than 71 million, owing to its rich and varied topography, vibrant culture, festivals, monuments, ancient places of worship, and viharas. Uttar Pradesh is also home to three World Heritage Sites: the Taj Mahal, Agra Fort, and the nearby Fatehpur Sikri. Uttar Pradesh is a favoured tourist destination in India due to the location of Taj Mahal, nearly 69 lakhs (6.9 million) people visited the Taj Mahal in 2018–19, up 6% from the previous year when the number stood at 64 lakhs (6.4 million). The monument earned almost ₹78 crore (US$10 million) in ticket sales in 2018–19. The state's tourism industry is a major contributor to the state's economy, growing at the rate of 21.60%.
+      <p></p>
+
+
             </div>
             </div>
 

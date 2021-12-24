@@ -190,8 +190,6 @@
   }
 
   
-  
-  
   @media only screen and (min-width:425px) {
   
     .smallimg{
@@ -241,11 +239,7 @@
       background-color: #1F1F1F;
     }
 
-    /* .mobicon{
-      width: 75% !important;
-    } */
 
-      
 .foothandle{
   min-height: calc(100vh - 150px);
 }
