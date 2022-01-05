@@ -635,7 +635,112 @@ Texas A&M University</td>
             <td className="snowidth text-center">30</td>
             <td className="nametd">Dr. Preeti </td>
             <td className="afftd">Assistant Professor, Vishwakarma Skill University 
-</td>
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">31</td>
+            <td className="nametd">Dr Pratul Arvind</td>
+            <td className="afftd">Associate Professor, Department of Electrical Engineering ADGITM, New Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">32</td>
+            <td className="nametd">Dr K. P. Singh</td>
+            <td className="afftd">National Power Training Institute (NPTI), Faridabad
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">33</td>
+            <td className="nametd">Dr. Arun Sharma</td>
+            <td className="afftd">Head & Professor in Department of Artificial Intelligence and Data Science, Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">34</td>
+            <td className="nametd">Dr. G.N. Tiwari</td>
+            <td className="afftd">Professor, IIT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">35</td>
+            <td className="nametd">Dr. M.A. Ansari</td>
+            <td className="afftd">Professor, Gautam Budha Univesity, Gr. Noida
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">36</td>
+            <td className="nametd">Dr. Sanjeeba Bisoyi</td>
+            <td className="afftd">Associate Professor, JSS Academy of Technical Education, Noida
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">37</td>
+            <td className="nametd">Dr. Rajesh Kumar</td>
+            <td className="afftd">Associate Professor, North Eastern Regional Institute of Science and Technology, Nirjuli, Itanagar, Arunachal Pradesh, India
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">38</td>
+            <td className="nametd">Dr. Jiwanjot Singh</td>
+            <td className="afftd">Assistant Professor, NIT Silchar.
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">39</td>
+            <td className="nametd">Dr. Amit Kumar</td>
+            <td className="afftd">Associate Professor, IIT Delhi.
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">40</td>
+            <td className="nametd">Dr. Sreejith S. </td>
+            <td className="afftd">Assistant Professor, NIT Silchar
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">41</td>
+            <td className="nametd">Dr. Vijayakumar K. </td>
+            <td className="afftd">Assistant Professor, IIITDM Kancheepuram (Under MhRD), Kandigai, Chennai
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">42</td>
+            <td className="nametd">Dr. Pardeep Kumar </td>
+            <td className="afftd">Assistant Professor, NIT Kurukshetra
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">43</td>
+            <td className="nametd">Dr. Hasmat Malik </td>
+            <td className="afftd">Professor, BEARS, NUS Campus, Singapore
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">44</td>
+            <td className="nametd">Dr. Narendra Kumar</td>
+            <td className="afftd">Professor, Delhi Technological University, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
             </tr>
 
 
