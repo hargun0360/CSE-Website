@@ -13,7 +13,7 @@ class Home extends Component {
 <div className="d-flex container pt-5 justify-content-between">
             <div className="">
                 <div id="bg-green" className="d-inline-block p-2 mt-3">
-                1st INTERNATIONAL CONFERENCE on
+                INTERNATIONAL CONFERENCE on
                 </div>
                 <h5 className="greytext mt-2 ">Advancements and Key Challenges in</h5>
                 <h2 className="text-uppercase greenhead bold-text display-4">Green Energy<br/>and Computing</h2>
