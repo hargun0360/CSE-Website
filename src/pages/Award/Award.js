@@ -1,7 +1,7 @@
 import Header from "../../components/Header/Header"
 import { Table } from "react-bootstrap"
 import Banner from "../../components/banner/Banner"
-import Footer from "../../components/footer/Footer"
+import Footer from "../../components/Footer/Footer"
 
 
 const Award = () => {

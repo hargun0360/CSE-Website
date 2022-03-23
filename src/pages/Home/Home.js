@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import HomeCarousel from '../../components/carousel/HomeCarousel'
-import Footer from '../../components/footer/Footer'
-// import Footer from '../../components/footer/Footer'
+// import Footer from '../../components/Footer/Footer'
+import Footer from '../../components/Footer/Footer'
 import Header from '../../components/Header/Header'
 import './Home.css'
 import image1 from '../../assets/image1.png'

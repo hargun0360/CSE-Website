@@ -302,7 +302,7 @@ Assistant Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">8</td>
-            <td className="nametd">Dr. Valentina E.Balas</td>
+            <td className="nametd">Hatem Hatef Abdulkadim Altae</td>
             <td className="afftd">Professor, Cihan University, Iraq</td>
             </tr>
 

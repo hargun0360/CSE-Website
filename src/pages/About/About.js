@@ -1,6 +1,6 @@
 import React from 'react'
 import AboutCarousel from '../../components/carousel/AboutCarousel';
-import Footer from '../../components/footer/Footer'
+import Footer from '../../components/Footer/Footer'
 import Header from '../../components/Header/Header'
 import image1 from '../../assets/image1.jpg'
 import image2 from '../../assets/image2.jpg'
