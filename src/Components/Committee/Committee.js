@@ -555,7 +555,7 @@ Texas A&M University</td>
 
             <tr>
             <td className="snowidth text-center">19</td>
-            <td className="nametd">Ms. Meenu Singhal</td>
+            <td className="nametd">Mr. Meenu Singhal</td>
             <td className="afftd">Vice President, Schneider Electric</td>
             </tr>
 
