@@ -36,36 +36,45 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
             
             {/* <Table bordered > */}
             
-                <Table bordered>
-            <tbody>
-            <tr>
-                        {/* <th>Early Birds</th> */}
-                        <th>Invitation for Papers </th>
-                        <th>15th January 2022</th>
-                    </tr>
-            <tr>
-                {/* <td> Participants from Industries </td>  */}
-                <td>Submission of Full Paper </td>
-                <td>15th April 2022</td>
-            </tr>
-            <tr>
-                {/* <td> Academia </td>  */}
-                <td>Notification and Date of Acceptance </td>
-                <td>31st August 2022</td>
-            </tr>
-            <tr>
-                {/* <td> Research Scholars and students </td>  */}
-                <td>Date of Registration and camera ready copy </td>
-                <td>10th  October 2022</td>
-            </tr>
-            <tr>
-                {/* <td> Research Scholars and students </td>  */}
-                <td>Conference Date</td>
-                <td>11-12th November 2022</td>
-            </tr>
+            <Table bordered >
+  <tbody>
+    <tr>
+      
+      <td>Invitation for Papers </td>
+      <td>25th March 2022</td>
+      
+      
 
-            </tbody>
-        </Table>
+    </tr>
+    <tr>
+    <td>Submission of Paper  </td>
+      
+      <td>30th June 2022</td>
+     
+      
+      
+    </tr>
+    <tr>
+    <td>Notification to Authors    </td>
+    <td>10th September 2022</td>
+    </tr>
+
+    <tr>
+    <td>Final Version of Accepted Submissions   </td>
+    <td>10th  October 2022</td>
+    </tr>
+   
+    <tr>
+    <td>    Registration and Camera Ready Copy Submission   </td>
+    <td>25th October 2022</td>
+    </tr>
+
+    <tr>
+    <td>Conference Date </td>
+    <td >11-12th November 2022</td>
+    </tr>
+  </tbody>
+</Table>
 
 
             </div>

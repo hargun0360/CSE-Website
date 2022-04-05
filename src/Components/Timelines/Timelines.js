@@ -14,32 +14,32 @@ import { Table } from "react-bootstrap";
     <tr>
       
       <td>Invitation for Papers </td>
-      <td>15th January 2022</td>
+      <td>25th March 2022</td>
       
       
 
     </tr>
     <tr>
-    <td>Submission of Full Paper  </td>
+    <td>Submission of Paper  </td>
       
-      <td>15th April 2022</td>
+      <td>30th June 2022</td>
      
       
       
     </tr>
     <tr>
-    <td>Notification and Date of Acceptance     </td>
-    <td>31st August 2022</td>
-     
-     
-      
-    
-
+    <td>Notification to Authors    </td>
+    <td>10th September 2022</td>
     </tr>
 
     <tr>
-    <td>Date of Registration and camera ready copy   </td>
+    <td>Final Version of Accepted Submissions   </td>
     <td>10th  October 2022</td>
+    </tr>
+   
+    <tr>
+    <td>    Registration and Camera Ready Copy Submission   </td>
+    <td>25th October 2022</td>
     </tr>
 
     <tr>
