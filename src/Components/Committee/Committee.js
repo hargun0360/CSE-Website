@@ -23,21 +23,23 @@ import { Table } from "react-bootstrap";
 
             </tbody>
         </Table>
-            
 
             <Table borderless className="mb-5 borderbtm">
             <tbody>
             <tr>
                         <th className="noborder">General Chair</th>
-                        {/* <th className="noborder">Patron</th> */}
+                        <th className="noborder">Conference Chair</th>
                     </tr>
             <tr>
-                <td className="tdborder"> Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td> 
-                <td className="tdborder"></td>
+                <td className="tdborder"> Dr. B. K. Panigrahi<br/>Professor, Electrical Engineering Department, Indian Institute of Technology Delhi</td> 
+                <td className="tdborder">Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td>
             </tr>
 
             </tbody>
         </Table>
+            
+
+            
 
             <Table borderless className="mb-5 borderbtm">
             <tbody>
@@ -145,7 +147,7 @@ Dr. Sarika Kalra<br/>
 Associate Professor (EN), AKGEC</td>
                 <td className="tdborder">
 Dr. Vani Bhargava<br/>
-Assistant Professor(EN) , AKGEC</td>
+Associate Professor(EN) , AKGEC</td>
             </tr>
 
             </tbody>
@@ -733,6 +735,111 @@ Texas A&M University</td>
             <td className="snowidth text-center">44</td>
             <td className="nametd">Dr. Narendra Kumar</td>
             <td className="afftd">Professor, Delhi Technological University, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">46</td>
+            <td className="nametd">Dr. Manpreet Singh Manna </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">47</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">48</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">49</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">50</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">51</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">52</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">53</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">54</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
+            </td>
+            </tr>
+
+            <tr>
+            <td className="snowidth text-center">45</td>
+            <td className="nametd">Dr. Anuradha Tomar </td>
+            <td className="afftd">Associate Professor, NSUT, Delhi
             </td>
             </tr>
 
