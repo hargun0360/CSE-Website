@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
-import { BrowserRouter as Router, Switch, Route, withRouter } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, useHistory } from 'react-router-dom';
+import { createBrowserHistory } from 'history'
 import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import Call from './pages/Call/Call'
@@ -10,7 +11,20 @@ import Registration from './pages/Registration/Registration';
 import Committee from './pages/Committee/Committee'
 import Award from './pages/Award/Award';
 
-function App() {
+class App extends Component {
+
+  componentDidMount(){
+    // const history = useHistory();
+
+    let path = localStorage.getItem('path');
+    if(path) {
+      localStorage.removeItem('path');
+      createBrowserHistory.push(path);
+      // history.push(path);
+    }
+  }
+
+  render() {
   return (
     <div className="App">
     <Router basename={window.location.pathname || ''}>
@@ -26,6 +40,7 @@ function App() {
     </Router>
     </div>
   );
+}
 }
 
 export default App;
