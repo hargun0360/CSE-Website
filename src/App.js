@@ -26,7 +26,7 @@ class App extends Component {
   render() {
   return (
     <div className="App">
-    <Router basename={window.location.pathname || ''}>
+    {/* <Router basename={window.location.pathname || ''}> */}
     <Switch>
     <Route path='/' exact component={Home} />
     <Route path='/about' component={About} />
@@ -36,7 +36,7 @@ class App extends Component {
     <Route path='/committee' component={Committee} />
     <Route path='/accomodation' component={Award} />
     </Switch>
-    </Router>
+    {/* </Router> */}
     </div>
   );
 }
