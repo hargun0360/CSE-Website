@@ -19,6 +19,7 @@ class App extends Component {
     let path = localStorage.getItem('path');
     if(path) {
       localStorage.removeItem('path');
+      console.log("inside compdid");
       createBrowserHistory.push(path);
       // history.push(path);
     }

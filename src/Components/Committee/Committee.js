@@ -200,7 +200,7 @@ Associate Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">6</td>
-            <td className="nametd">Tzung-Pei Hong</td>
+            <td className="nametd">Dr. Tzung-Pei Hong</td>
             <td className="afftd">Distinguished Professor, National University of Kaohsiung, Taiwan</td>
             </tr>
 
@@ -212,7 +212,7 @@ Associate Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">8</td>
-            <td className="nametd">Hatem Hatef Abdulkadim Altae</td>
+            <td className="nametd">Dr. Hatem Hatef Abdulkadim Altae</td>
             <td className="afftd">Professor, Cihan University, Iraq</td>
             </tr>
 
@@ -224,33 +224,33 @@ Associate Professor(EN) , AKGEC</td>
 
             <tr>
             <td className="snowidth text-center">10</td>
-            <td className="nametd">Frede Blaabjerg</td>
+            <td className="nametd">Dr. Frede Blaabjerg</td>
             <td className="afftd">Professor, AAU Energy</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">11</td>
-            <td className="nametd">Muhammad H Rashid</td>
+            <td className="nametd">Dr. Muhammad H Rashid</td>
             <td className="afftd">Professor, Florida Polytechnic University</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">12</td>
-            <td className="nametd">Prasad Enjeti</td>
+            <td className="nametd">Dr. Prasad Enjeti</td>
             <td className="afftd">Professor, Electrical & Computer Engineering
 Texas A&M University</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">13</td>
-            <td className="nametd">Kaushik Rajashekara
+            <td className="nametd">Dr. Kaushik Rajashekara
 </td>
             <td className="afftd">Distinguished Professor of Engineering, University of Houston</td>
             </tr>
 
             <tr>
             <td className="snowidth text-center">14</td>
-            <td className="nametd">Wael R. Abdulmajeed</td>
+            <td className="nametd">Dr. Wael R. Abdulmajeed</td>
             <td className="afftd">Postgraduate Studies Coordinator, University of Baghdad</td>
             </tr>
 
@@ -280,7 +280,7 @@ Texas A&M University</td>
 
             <tr>
             <td className="snowidth text-center">19</td>
-            <td className="nametd">Seyed M.K. Sadr</td>
+            <td className="nametd">Dr. Seyed M.K. Sadr</td>
             <td className="afftd">Postdoctoral Research Fellow, University of Exeter, United Kingdom</td>
             </tr>
 
@@ -308,14 +308,14 @@ Texas A&M University</td>
 
             <tr>
             <td className="snowidth text-center">23</td>
-            <td className="nametd">Wael R. Abdulmajeed</td>
+            <td className="nametd">Dr. Wael R. Abdulmajeed</td>
             <td className="afftd">Postgraduate Studies Coordinator, University of Baghdad</td>
             </tr>
 
 
             <tr>
             <td className="snowidth text-center">24</td>
-            <td className="nametd">Garabed Boghossian</td>
+            <td className="nametd">Dr. Garabed Boghossian</td>
             <td className="afftd">Lecturer, Haigazian University, Lebanon</td>
             </tr>
 
