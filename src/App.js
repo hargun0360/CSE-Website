@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 import { BrowserRouter as Router, Switch, Route, useHistory } from 'react-router-dom';
-import { createBrowserHistory } from 'history'
 import Home from './pages/Home/Home'
 import About from './pages/About/About'
 import Call from './pages/Call/Call'
@@ -19,9 +18,8 @@ class App extends Component {
     let path = localStorage.getItem('path');
     if(path) {
       localStorage.removeItem('path');
-      console.log("inside compdid");
-      createBrowserHistory.push(path);
-      // history.push(path);
+      console.log(this.props);
+      this.props.history.push(path);
     }
   }
 
