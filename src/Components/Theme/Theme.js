@@ -25,8 +25,8 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
             
             <h1 className="mt-5 mb-3 green-heading">Plans for Publication of Proceedings</h1>
             <p>
-• The proceedings will be published by Springer and online.<br/>
-• All the presented papers will be indexed in a Scopus Journal of Springer.<br/>
+{/* • The proceedings will be published by Springer and online.<br/> */}
+• All the presented papers will be indexed in a Scopus Journal.<br/>
 • Best paper award will be given for each theme.
 </p>
 </div>
