@@ -41,7 +41,7 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
     <tr>
       
       <td>Invitation for Papers </td>
-      <td>25th March 2022</td>
+      <td>20th September 2022</td>
       
       
 
@@ -49,29 +49,29 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
     <tr>
     <td>Submission of Paper  </td>
       
-      <td>30th June 2022</td>
+      <td>20th November 2022</td>
      
       
       
     </tr>
     <tr>
     <td>Notification to Authors    </td>
-    <td>10th September 2022</td>
+    <td>31st December 2022</td>
     </tr>
 
     <tr>
     <td>Final Version of Accepted Submissions   </td>
-    <td>10th  October 2022</td>
+    <td>15th January 2023</td>
     </tr>
    
     <tr>
     <td>    Registration and Camera Ready Copy Submission   </td>
-    <td>25th October 2022</td>
+    <td>30th January 2023</td>
     </tr>
 
     <tr>
     <td>Conference Date </td>
-    <td >11-12th November 2022</td>
+    <td >24-25th February 2022</td>
     </tr>
   </tbody>
 </Table>
