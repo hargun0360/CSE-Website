@@ -71,7 +71,7 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
 
     <tr>
     <td>Conference Date </td>
-    <td >24-25th February 2022</td>
+    <td >24-25th February 2023</td>
     </tr>
   </tbody>
 </Table>
