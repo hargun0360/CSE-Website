@@ -37,7 +37,7 @@ import { Table } from "react-bootstrap";
             </tbody>
         </Table>
 
-<p>Fee entitles the delegates to participate in technical sessions, conference kit, copy of the proceedings, lunch and refreshments on each day of conference. Registration and rest proceedings will be done through the conference website: <b>akgec2022@akgec.ac.in</b>.</p>
+<p>10% fee concession to IET and IEEE Members.  The fee entitles the delegates to participate in technical sessions, conference kit, copy of the proceedings, lunch and refreshments on each day of conference. Registration and rest proceedings will be done through the conference website: akgec2022@akgec.ac.in</p>
             
             </div>
             </div>
