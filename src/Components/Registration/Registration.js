@@ -20,17 +20,17 @@ import { Table } from "react-bootstrap";
                     </tr>
             <tr>
                 <td> Participants from Industries </td> 
-                <td>Rs. 7000</td>
+                <td>Rs. 9000</td>
                 <td>$ 250</td>
             </tr>
             <tr>
                 <td> Academia </td> 
-                <td>Rs. 5000</td>
+                <td>Rs. 8000</td>
                 <td>$ 200</td>
             </tr>
             <tr>
                 <td> Research Scholars and students </td> 
-                <td>Rs. 3000</td>
+                <td>Rs. 7000</td>
                 <td>$ 150</td>
             </tr>
 
