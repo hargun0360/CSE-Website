@@ -40,11 +40,9 @@ import ItemCard from './Item';
             <Table borderless className="mb-5 borderbtm">
             <tbody>
             <tr>
-                        <th className="noborder">General Chair</th>
-                        <th className="noborder">Conference Chair</th>
+                    <th className="noborder">General Chair</th>
                     </tr>
             <tr>
-                <td className="tdborder"> Dr. B. K. Panigrahi<br/>Professor, Electrical Engineering Department, Indian Institute of Technology Delhi</td> 
                 <td className="tdborder">Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td>
             </tr>
 
@@ -58,12 +56,18 @@ import ItemCard from './Item';
             <tbody>
             <tr>
                         <th className="noborder">Organizing Chair</th>
-                        {/* <th className="noborder">Patron</th> */}
                     </tr>
             <tr>
-                <td className="tdborder threecols">Dr. Sunita Yadav<br/>Professor & Head (CSE), AKGEC</td> 
-                <td className="tdborder threecols">Dr. Anu Chaudhary<br/>Professor & Head (IT), AKGEC</td>
-                <td className="tdborder threecols">Dr. Neelesh Kumar Gupta<br/>Professor & Head (ECE), AKGEC</td>
+                <td className="tdborder"> Dr. Pallab Biswas<br/>
+                Professor & Head (ME), AKGEC
+<br/><br/>
+Dr. Anu Chaudhary<br/>
+Professor & Head (IT), AKGEC</td> 
+                <td className="tdborder">Dr. Neelesh Kumar Gupta<br/>
+                Professor & Head (ECE), AKGEC<br/>
+<br/>
+Prof. V.K. Parashar<br/>
+Professor (EN), AKGEC</td>
             </tr>
 
             </tbody>
@@ -78,8 +82,8 @@ import ItemCard from './Item';
                 <td className="tdborder"> Dr. Ashiv Shah<br/>
 Professor & Head, AKGEC Skills
 <br/><br/>
-Dr. Devendra Singh<br/>
-Professor & Head (ME), AKGEC</td> 
+Dr. Sunita Yadav<br/>
+Professor & Head (CSE), AKGEC</td> 
                 <td className="tdborder">Dr. B. K. Sharma<br/>
 Professor & Head, AKGEC-MCA<br/>
 <br/>
@@ -96,8 +100,8 @@ Professor & Head (CE), AKGEC</td>
                         <th className="noborder">Organizing Secretary  </th>
                     </tr>
             <tr>
+            <td className="tdborder">Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
                 <td className="tdborder">Dr. Sukhwinder Singh Dhillon<br/>Associate Professor (EN), AKGEC</td> 
-                <td className="tdborder"></td>
             </tr>
 
             </tbody>
@@ -136,14 +140,17 @@ Professor & Head (CE), AKGEC</td>
                     </tr>
             <tr>
                 <td className="tdborder">
-Mr. Dinanath Prasad<br/>
+                Dr. Dibya Bharti <br/>
 Assistant  Professor (EN), AKGEC<br/>
 <br/>
- Mr. Arjun Baliyan<br/>
+Mr. Neeraj Gupta<br/>
 Assistant  Professor (EN), AKGEC</td> 
                 <td className="tdborder">
-Dr. Dibya Bharti <br/>
-Assistant Professor(EN) , AKGEC</td>
+                Mr. Deepak Narang <br/>
+Assistant Professor(EN) , AKGEC<br/><br/>
+Mr. Parveen Kumar Dhull <br/>
+Assistant Professor(EN) , AKGEC
+</td>
             </tr>
 
             </tbody>
@@ -989,10 +996,10 @@ Associate Professor(EN) , AKGEC</td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Mr. Atul Sood</td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
             <tr>
             <td className="tdborder">Ms. Nidhi Maurya </td>
@@ -1009,12 +1016,12 @@ Associate Professor(EN) , AKGEC</td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Mr. Parveen Kumar Dhull</td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Mr. Deepak Narang </td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
@@ -1027,7 +1034,7 @@ Associate Professor(EN) , AKGEC</td>
             <tr>
             <td className="tdborder">Mr. Ankit Dixit </td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
             <tr>
             <td className="tdborder">Ms. Nupur Mittal</td>
@@ -1039,20 +1046,20 @@ Associate Professor(EN) , AKGEC</td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Ms. Anubha Gupta</td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
             <tr>
             <td className="tdborder">Mr. Mahendra Dutt Dwivedi </td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Mr. Neeraj Gupta </td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
             <tr>
             <td className="tdborder">Mr. Harsh Mohan Sharma </td>
@@ -1064,10 +1071,10 @@ Associate Professor(EN) , AKGEC</td>
             <td className="tdborder">Assistant Professor</td>
             </tr>
 
-            <tr>
+            {/* <tr>
             <td className="tdborder">Mr. Ritesh Yadav </td>
             <td className="tdborder">Assistant Professor</td>
-            </tr>
+            </tr> */}
 
             </tbody>
         </Table>

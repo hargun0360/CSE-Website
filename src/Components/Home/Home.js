@@ -11,7 +11,7 @@ class Home extends Component {
       return (
         <div id="home">
 <div className="d-flex container pt-5 justify-content-between">
-            <div className="">
+            <div>
                 <div id="bg-green" className="d-inline-block p-2 mt-3">
                 INTERNATIONAL CONFERENCE on
                 </div>
@@ -19,7 +19,7 @@ class Home extends Component {
                 <h2 className="text-uppercase greenhead bold-text display-4">Green Energy<br/>and Computing</h2>
                 <Calendar/> <h5 className="greytext d-inline m-auto">24-25 Feb 2023</h5>
             </div>
-            <div className="w-50 d-flex deskicon" ><Desktop className="w-50 m-auto"/></div>
+            <div className="w-50 d-flex deskicon" ><Desktop className="d-inline-block w-50 m-auto"/></div>
 </div>
 
 
