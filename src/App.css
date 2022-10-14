@@ -188,6 +188,12 @@
     background: red;
   }
 
+  .nayi{
+    height:auto;
+    width:30%;
+    display: block;
+  }
+
   
   @media only screen and (min-width:425px) {
   
@@ -200,7 +206,13 @@
   
     .si-text{
       font-size: 12px;
-  }
+    }
+
+    .naya{
+      width:25%;
+      margin: 0;
+      padding: 0;
+    }
   
   
   .foottext{

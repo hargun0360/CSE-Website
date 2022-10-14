@@ -101,13 +101,13 @@ Professor & Head (CE), AKGEC</td>
                     </tr>
             <tr>
             <td className="tdborder">Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
-                <td className="tdborder">Dr. Sukhwinder Singh Dhillon<br/>Associate Professor (EN), AKGEC</td> 
+                <td className="tdborder">Dr. Vani Bhargava<br/>Associate Professor (EN), AKGEC</td> 
             </tr>
 
             </tbody>
         </Table>
 
-            <Table borderless className="mb-5 borderbtm">
+            {/* <Table borderless className="mb-5 borderbtm">
             <tbody>
             <tr>
                         <th className="noborder">Technical Chair </th>
@@ -118,7 +118,7 @@ Professor & Head (CE), AKGEC</td>
             </tr>
 
             </tbody>
-        </Table>
+        </Table> */}
 
             <Table borderless className="mb-5 borderbtm">
             <tbody>

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import path from '../../assets/icons/rightsmall.svg';
-import logopath from '../../assets/icons/enlogo.png';
+import logopath from '../../assets/icons/naya.png';
 import {ReactComponent as Calendar} from '../../assets/icons/calendar.svg';
 import {ReactComponent as Desktop} from '../../assets/icons/mob.svg';
 import Gallery from '../Gallery/Gallery'
@@ -12,6 +12,7 @@ class Home extends Component {
         <div id="home">
 <div className="d-flex container pt-5 justify-content-between">
             <div>
+                <img src={logopath} class="nayi"/>
                 <div id="bg-green" className="d-inline-block p-2 mt-3">
                 INTERNATIONAL CONFERENCE on
                 </div>

@@ -20,24 +20,24 @@ import { Table } from "react-bootstrap";
                     </tr>
             <tr>
                 <td> Participants from Industries </td> 
-                <td>Rs. 9000</td>
+                <td>Rs. 6000</td>
                 <td>$ 250</td>
             </tr>
             <tr>
                 <td> Academia </td> 
-                <td>Rs. 8000</td>
+                <td>Rs. 5000</td>
                 <td>$ 200</td>
             </tr>
             <tr>
                 <td> Research Scholars and students </td> 
-                <td>Rs. 7000</td>
+                <td>Rs. 4000</td>
                 <td>$ 150</td>
             </tr>
 
             </tbody>
         </Table>
 
-<p>10% fee concession to IET and IEEE Members.  The fee entitles the delegates to participate in technical sessions, conference kit, copy of the proceedings, lunch and refreshments on each day of conference. Registration and rest proceedings will be done through the conference website: akgec2022@akgec.ac.in</p>
+<p>10% fee concession to IEI and IEEE Members.  The fee entitles the delegates to participate in technical sessions, conference kit, copy of the proceedings, lunch and refreshments on each day of conference. Registration and rest proceedings will be done through the conference website: akgec2022@akgec.ac.in</p>
             
             </div>
             </div>
