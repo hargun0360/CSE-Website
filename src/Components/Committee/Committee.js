@@ -44,6 +44,7 @@ import ItemCard from './Item';
                     </tr>
             <tr>
                 <td className="tdborder">Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td>
+                <td className="tdborder">Dr. B.K. Panigrahi<br/>Professor, IIT Delhi</td>
             </tr>
 
             </tbody>
