@@ -1,7 +1,7 @@
-import Header from "../../components/Header/Header"
+import Header from "../../Components/Header/Header"
 import { Table } from "react-bootstrap"
-import Banner from "../../components/banner/Banner"
-import Footer from "../../components/Footer/Footer"
+import Banner from "../../Components/banner/Banner"
+import Footer from "../../Components/Footer/Footer"
 
 
 const Award = () => {

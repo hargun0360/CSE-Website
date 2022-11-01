@@ -1,9 +1,9 @@
-import Header from "../../components/Header/Header"
-import Footer from "../../components/Footer/Footer"
+import Header from "../../Components/Header/Header"
+import Footer from "../../Components/Footer/Footer"
 import "./Registration.css"
 import { Table } from "react-bootstrap"
-import Banner from "../../components/banner/Banner"
-import Main from "../../components/Registration/Registration"
+import Banner from "../../Components/banner/Banner"
+import Main from "../../Components/Registration/Registration"
 
 const Registration = () => {
     return(

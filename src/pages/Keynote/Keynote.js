@@ -1,6 +1,6 @@
-import Header from "../../components/Header/Header";
+import Header from "../../Components/Header/Header";
 import "./Keynote.css"
-import Footer from "../../components/Footer/Footer"
+import Footer from "../../Components/Footer/Footer"
 import img1 from "../../assets/keynote/img1.png"
 import img2 from "../../assets/keynote/img2.png"
 import img3 from "../../assets/keynote/img3.jpg"

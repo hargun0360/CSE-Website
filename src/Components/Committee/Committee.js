@@ -41,10 +41,11 @@ import ItemCard from './Item';
             <tbody>
             <tr>
                     <th className="noborder">General Chair</th>
+                    <th className="noborder">Conference Chair</th>
                     </tr>
             <tr>
-                <td className="tdborder">Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td>
                 <td className="tdborder">Dr. B.K. Panigrahi<br/>Professor, IIT Delhi</td>
+                <td className="tdborder">Dr. Hemant Ahuja<br/>Professor & Head (EN), AKGEC</td>
             </tr>
 
             </tbody>
@@ -101,8 +102,9 @@ Professor & Head (CE), AKGEC</td>
                         <th className="noborder">Organizing Secretary  </th>
                     </tr>
             <tr>
-            <td className="tdborder">Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
+                <td className="tdborder">Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
                 <td className="tdborder">Dr. Vani Bhargava<br/>Associate Professor (EN), AKGEC</td> 
+                <td className="tdborder">Dr. Sukhwinder Singh Associate Professor (EN), AKGEC </td> 
             </tr>
 
             </tbody>
