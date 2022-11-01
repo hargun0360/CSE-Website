@@ -96,15 +96,16 @@ Professor & Head (CE), AKGEC</td>
             </tbody>
         </Table>
 
-            <Table borderless className="mb-5 borderbtm">
-            <tbody>
+        <Table >
+            <thead>
+                <th className="noborder">Organizing Secretary  </th>
+            </thead>
+            <tbody  className="tableNew">
+            
             <tr>
-                        <th className="noborder">Organizing Secretary  </th>
-                    </tr>
-            <tr>
-                <td className="tdborder">Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
-                <td className="tdborder">Dr. Vani Bhargava<br/>Associate Professor (EN), AKGEC</td> 
-                <td className="tdborder">Dr. Sukhwinder Singh Associate Professor (EN), AKGEC </td> 
+                <td>Dr. A.K. Rai<br/>Professor (EN), AKGEC</td>
+                <td>Dr. Vani Bhargava<br/>Associate Professor (EN), AKGEC</td> 
+                <td>Dr. Sukhwinder Singh<br/> Associate Professor (EN), AKGEC </td> 
             </tr>
 
             </tbody>
@@ -169,10 +170,28 @@ Assistant Professor(EN) , AKGEC
 Dr. Sarika Kalra<br/>
 Associate Professor (EN), AKGEC</td>
                 <td className="tdborder">
-Dr. Vani Bhargava<br/>
-Associate Professor(EN) , AKGEC</td>
+                Dr. Namrata Gangil<br/>
+                Associate Professor(ME) , AKGEC</td>
             </tr>
 
+            </tbody>
+        </Table>
+
+        <Table>
+            <thead>
+                <th>Screening Committee </th>
+            </thead>
+            <tbody className="tableNew">
+                <tr>
+                    <td>Dr. Inderjeet Kaur<br/>Professor (CSE), AKGEC</td>
+                    <td>Dr. Sachin Kumar<br/>Professor (CSE), AKGEC</td>
+                    <td>Dr. Anupama Sharma<br/>Associate Professor (IT), AKGEC</td>
+                </tr>
+                <tr>
+                    <td>Dr. Amrita Jyoti<br/>Assistant Professor (IT), AKGEC</td>
+                    <td>Dr. Alok Vardhan<br/>Assistant Professor (ME), AKGEC</td>
+                    <td></td>
+                </tr>
             </tbody>
         </Table>
 

@@ -194,6 +194,16 @@
     display: block;
   }
 
+  .tableNew{
+    border: #1F1F1F 1px solid;
+    
+  }
+  .tableNew td{
+    border:  #1F1F1F 1px solid;
+    border-bottom: none;
+    border-top: none;
+    /* padding: 10px 20px; */
+  }
   
   @media only screen and (min-width:425px) {
   
