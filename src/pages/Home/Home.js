@@ -16,9 +16,9 @@ function Home() {
 
   return (
     <>
-    <Header active='home'/>
-    <Main/>  
-    <Footer />
+      <Header active='home' />
+      <Main />
+      <Footer />
 
 
 

@@ -1,89 +1,599 @@
 import React, { Component } from "react";
 import { Table } from "react-bootstrap";
 
-    class Theme extends Component {
-            
-        render(){
-            return (
-            <div id="theme" className="target">
-            <div className="container" >
-            <h1 className="mb-3 green-heading">Track Details</h1>
+class Theme extends Component {
 
-            <h5 className="extra-bold-text mt-4">Track 1: Green Energy, Electric Drives and Smart Grid</h5>
-            <p>Renewable Energy Sources: Solar Energy: Solar PV performance, Solar cell materials and solar cell power plant, Islanded and hybrid modes and control, Plastic solar cells, Solar Thermal Energy: solar collectors and their performance, solar thermal power plants, challenges. Wind Energy: Wind energy technologies, Wind energy conversion systems, Islanding and Grid integration, Wind Energy -environmental impact, Wind structural designs and models, applications. Tidal energy, Geothermal energy, Nuclear energy, Biomass and biofuels, Waste-to-energy, Fuel cells, Energy integration and storage, Distributed Energy Systems, Micro grids, Distribution System Control, Power Electronics and Drives, Smart grids: Architecture, Sizing, Topologies and control methods for Power system applications. Energy storage methods, Energy conservation and auditing, Energy market, Energy Efficiency: Demand side management, modeling, design and simulation; Electric Vehicles: Charging, Battery Management System, Hybrid Vehicles, Grid Integration of Electric Vehicles.</p>
-            
-            <h5 className="extra-bold-text mt-4">Track 2: Computing and Security</h5>
-            <p>Cloud computing, Energy efficient cloud architectures, Storage and computation management of Big Data, Big Data processing on Cloud, Big Data mining and analytics, Visualization of Big Data on Cloud, Energy efficient IT architecture, Energy efficient resource scheduling and optimization, Energy efficient clustering and computing, Large-scale energy aware data storage and computation, Green data centers, Green IT and Green IS, Energy aware resource usage and consumption, Cognitive Learning, Multi-Cloud Connectivity, Data Analytics, Machine Learning, Cloud Enablement, Business Transformation.
-Smart grids and virtual power stations, Energy policy, low power electronics and energy recycling, Green computing case studies, Energy efficiency in the Internet of Things, Data and Information, Quality Control; Computer Vision, Distributed Computing, Software Engineering; Bioinformatics; Semantics Web, Cryptography, Digital Forensics, Mobile Security, Cloud Security, Energy Constrained Network Devices.</p>
-            
-            <h5 className="extra-bold-text mt-4">Track 3: Sustainable Technologies and Development</h5>
-            <p> Science of the total environment for sustainability, Solid Waste Reutilization, Nanomaterials for sustainable energy , Next-generation nuclear power, Remote Sensing for sustainability, Artificial intelligence for sustainability, Energy and carbon neutrality, Economic development, Economy oriented building and infrastructure development, Sustainable infrastructure, Environmental system engineering, Sustainable governance indicators, Biofuels, Bioplastics, Smart Monitoring and Predictive Analytics, Tidal energy.     </p>
-            
-            <h5 className="extra-bold-text mt-4">Track 4: Artificial Intelligence and Embedded Systems </h5>
-            <p>Artificial Intelligence, Machine Learning, Deep Learning, Bio-inspired Optimization based power control modeling, protection and simulation, Monitoring topologies: Community Information Systems, Remote Sensing, Geographic Information System and GPS, Disaster Management, E-Systems, Informatics Hybrid Evolutionary Algorithms, Hybrid Intelligent Systems; Neural Networks, Neuro-Fuzzy Models and Applications, Neuro Informatics Open Source: Challenges and Opportunities, Smart Grid Communication topologies for monitoring and control: Power-line Communications, Antenna and Wave Propagation, Green Communication Management. Smart sensors, VLSI Systems, Nano Electronics, FPGA Development, System on Chip, Embedded Applications, Embedded Memory Architecture, System Automation.</p>
-            
-            
-            <h1 className="mt-5 mb-3 green-heading">Plans for Publication of Proceedings</h1>
-            <p>
-{/* • The proceedings will be published by Springer and online.<br/> */}
-• All the presented papers will be indexed in a Scopus Journal.<br/>
-• Best paper award will be given for each theme.
-</p>
-</div>
+  render() {
+    return (
+      <div id="theme" className="target">
+        <div className="container" >
+          <h1 className="mb-3 green-heading">Track Details</h1>
 
-<div className="container" >
-            <h1 className="mt-5 mb-3 green-heading">Important Timelines</h1>
-            
-            {/* <Table bordered > */}
-            
-            <Table bordered >
-  <tbody>
-    <tr>
-      
-      <td>Invitation for Papers </td>
-      <td>20th September 2022</td>
-      
-      
+          <h5 className="extra-bold-text mt-4">Track 1: Advances in Machine Learning and Deep Learning</h5>
+          <p>
+            <ul>
+              <li>
+                General Machine Learning, Active Machine Learning
+              </li>
+              <li>
+                Fuzzy Learning
+              </li>
+              <li>
+                Kernel Based Learning
+              </li>
+              <li>
+                Genetic Learning
+              </li>
+              <li>
+                Bayesian Estimation Approaches
+              </li>
+              <li>
+                Recurrent Neural Networks
+              </li>
+              <li>
+                Machine Learning over the Cloud
+              </li>
+              <li>
+                Learning Paradigms
+              </li>
+              <li>
+                Clustering, Classification and Regression Methods
+              </li>
+              <li>
+                Supervised, Semi-Supervised and Unsupervised Learning
+              </li>
+              <li>
+                Dimensionality reduction
+              </li>
+              <li>
+                Reinforcement Learning
+              </li>
+              <li>
+                Optimization Methods
+              </li>
+              <li>
+                Video and Audio Generation and Analytics with Deep Learning
+              </li>
+              <li>
+                Recurrent Neural Networks and its Applications
+              </li>
+              <li>
+                Recommender Systems
+              </li>
+              <li>
+                Bioinformatics and Biomedical Informatics
+              </li>
+              <li>
+                Healthcare and Clinical Decision Support
+              </li>
+              <li>
+                Information Retrieval
+              </li>
+              <li>
+                Natural Language Processing
+              </li>
+              <li>
+                Statistical Learning Theory
+              </li>
+            </ul>
+          </p>
 
-    </tr>
-    <tr>
-    <td>Submission of Paper  </td>
-      
-      <td>20th November 2022</td>
-     
-      
-      
-    </tr>
-    <tr>
-    <td>Notification to Authors    </td>
-    <td>31st December 2022</td>
-    </tr>
+          <h5 className="extra-bold-text mt-4">Track 2: Advances in Data Science</h5>
+          <p>
+            <ul>
+              <li>
+                Mathematical, Probabilistic and Statistical Models and Theories
+              </li>
+              <li>
+                Data Mining , Exploratory Data Analysis and Predictive Modelling
+              </li>
+              <li>
+                Machine Learning Theories, Models and Systems
+              </li>
+              <li>
+                Knowledge Discovery Theories, Models and Systems
+              </li>
+              <li>
+                Manifold and Metric Learning
+              </li>
+              <li>
+                Deep Learning and Deep Analytics
+              </li>
+              <li>
+                Scalable Analysis and Learning
+              </li>
+              <li>
+                Data Pre-Processing, Sampling and Reduction
+              </li>
+              <li>
+                Time Series Analysis, Spectral Analysis and Bivariate Processes
+              </li>
+              <li>
+                Feature Selection, Transformation and Construction
+              </li>
+              <li>
+                Large Scale Optimization
+              </li>
+              <li>
+                High Performance Computing for Data Analytics
+              </li>
+              <li>
+                Architecture, Management and Process for Data Science
+              </li>
+              <li>
+                Data Analytics, and Knowledge Discovery
+              </li>
+              <li>
+                Data Visualization and Dashboards
+              </li>
+              <li>
+                Data Integrity, Matching and Sharing
+              </li>
+              <li>
+                Privacy and Protection Standards and Policies
+              </li>
+              <li>
+                Privacy Preserving Big Data Access/Analytics
+              </li>
+              <li>
+                Social Impact and Social Good
+              </li>
+            </ul>
+          </p>
 
-    <tr>
-    <td>Final Version of Accepted Submissions   </td>
-    <td>15th January 2023</td>
-    </tr>
-   
-    <tr>
-    <td>    Registration and Camera Ready Copy Submission   </td>
-    <td>30th January 2023</td>
-    </tr>
+          <h5 className="extra-bold-text mt-4">Track 3: Applications of Artificial Intelligence in Interdisciplinary areas</h5>
+          <p>
+            <ul>
+              <li>
+                Applications of AI in Manufacturing Industry
+              </li>
+              <li>
+                Applications of AI in preventive maintenance
+              </li>
+              <li>
+                Applications of AI in Insurance and Banking
+              </li>
+              <li>
+                Applications of AI  in Fluid dynamics
+              </li>
+              <li>
+                Applications of AI in  CFD/ CAD/CAM/CAE/FEA/FEM
+              </li>
+              <li>
+                Applications of AI in Language Translation and Transliteration
+              </li>
+              <li>
+                Evolution and Innovation of Transformers for AI Models
+              </li>
+              <li>
+                Applications of AI in Cybersecurity
+              </li>
+              <li>
+                Applications of AI in Robotics and Automation
 
-    <tr>
-    <td>Conference Date </td>
-    <td >24-25th February 2023</td>
-    </tr>
-  </tbody>
-</Table>
+              </li>
+              <li>
+                Applications of AI in Blockchain
+
+              </li>
+              <li>
+                Applications of AI in Cloud Computing and Cloud Infrastrcuture
+
+              </li>
+              <li>
+                Applications of AI in Precision Agriculture
+
+              </li>
+              <li>
+                Applications of AI in Generation of Music and Art
+
+              </li>
+              <li>
+                Applications of AI in Fashion Design
+
+              </li>
+              <li>
+                Applications of AI in mobility and Autonomous vehicles
+
+              </li>
+              <li>
+                Applications of AI in Healthcare, Medical Industry
+
+              </li>
+              <li>
+                Applications of AI in Smart Cities and Smart Homes
+
+              </li>
+              <li>
+                Applications of AI in Pharmaceutical and Drug Development
+
+              </li>
+              <li>
+                Applications of AI in Bioinformatics, Genomic and DNA Sequencing/profiling
+
+              </li>
+              <li>
+                Applications of AI in High Performance Computing
+
+              </li>
+              <li>
+                Applications of AI in Telecommunications, Signal processing and Wireless Networks
+
+              </li>
+              <li>
+                Applications of AI in Space Research, Planet Exploration, Satellite Research
+
+              </li>
+              <li>
+                Applications of AI in Ocean Research
+
+              </li>
+              <li>
+                Applications of AI in Renewable energy resources, Clean and Green Energy
+
+              </li>
+              <li>
+                Big Data and Deep learning Applications
+
+              </li>
+              <li>
+                Computational intelligence and Optimization
+
+              </li>
+            </ul>
+          </p>
+
+          <h5 className="extra-bold-text mt-4">Track 4: High Performance Computing</h5>
+          <p>
+            <ul>
+              <li>
+                Autonomic Computing
+              </li>
+              <li>
+                Biotechnology
+              </li>
+              <li>
+                Cluster, Cloud and Grid Computing
+              </li>
+              <li>
+                Compiler Technologies for High-Performance Computing
+              </li>
+              <li>
+                Distributed Computing
+              </li>
+              <li>
+                Interconnection Network and Architecture
+
+              </li>
+              <li>
+                Load Balancing, Scheduling and Resource Management
+
+              </li>
+              <li>
+                Nanotechnology
+
+              </li>
+              <li>
+                Operating System for High Performance Computing
+
+              </li>
+              <li>
+                Parallel and Distributed Algorithms/Systems
+
+              </li>
+              <li>
+                Quantum Computing
+
+              </li>
+            </ul>
+          </p>
+
+          <h5 className="extra-bold-text mt-4">Track 5: Advances in Communication and Networks</h5>
+          <p>
+            <ul>
+              <li>
+                Ad-hoc Networks
+
+              </li>
+              <li>
+                Computer Networks
+
+              </li>
+              <li>
+                Cryptography
+
+              </li>
+              <li>
+                Cyber Crime
+
+              </li>
+              <li>
+                Cyber Law & Security
+
+              </li>
+              <li>
+                Ethical Hacking
+
+              </li>
+              <li>
+                Fraud Control
+
+              </li>
+              <li>
+                High Performance Networks
+
+              </li>
+              <li>
+                High Speed Networks
+
+              </li>
+              <li>
+                Information and System Security
+
+              </li>
+              <li>
+                Intellectual Property Right
+
+              </li>
+              <li>
+                Mobile Computing
+
+              </li>
+              <li>
+                Multimedia Signal Processing
+
+              </li>
+              <li>
+                Network Security and Privacy
+
+              </li>
+              <li>
+                Reliable Computing
+
+              </li>
+              <li>
+                RFID Applications
+
+              </li>
+              <li>
+                Software Engineering for Emerging Networks and Systems
+
+              </li>
+              <li>
+                Software Engineering for Mobile Systems
+
+              </li>
+              <li>
+                Trusted Computing
+
+              </li>
+              <li>
+                Wireless Communication
+
+              </li>
+              <li>
+                Wireless Sensor Networks
+
+              </li>
+            </ul>
+          </p>
+
+          <h5 className="extra-bold-text mt-4">Track 6: Advanced Algorithms
+          </h5>
+          <p>
+            <ul>
+              <li>
+                Approximation Algorithms
+
+              </li>
+              <li>
+                Bioinformatics Algorithms
+
+              </li>
+              <li>
+                Computational Biology
+
+              </li>
+              <li>
+                Computational Geometry
+
+              </li>
+              <li>
+                Data Compression Algorithm
+
+              </li>
+              <li>
+                Parallel and Distributed Algorithms
+
+              </li>
+              <li>
+                Exponential Algorithm
+
+              </li>
+              <li>
+                External-Memory Algorithms
+
+              </li>
+              <li>
+                Game Theory
+
+              </li>
+              <li>
+                Graph Algorithms
+
+              </li>
+              <li>Network Algorithms
+
+              </li>
+              <li>
+                On-line Algorithms
+
+              </li>
+              <li>
+                Optimization Algorithms
+
+              </li>
+              <li>
+                Parallel Algorithms
+
+              </li>
+              <li>Parameterized Algorithms
+
+              </li>
+              <li>
+                Pattern Matching Algorithm
+
+              </li>
+              <li>
+                Randomized Algorithms
+
+              </li>
+              <li>
+                Streaming Algorithms
+
+              </li>
+              <li>
+                String Algorithms
+
+              </li>
+            </ul>
+          </p>
 
 
-            </div>
+          <h5 className="extra-bold-text mt-4">Track 7: Teaching & Learning Systems
+          </h5>
+          <p>
+            <ul>
+              <li>
+                Academic Staff/Faculty Development
 
-            
-            </div>
-            );
-        }          
-    }
-                
-              
-              export default Theme;
+              </li>
+              <li>
+                Accreditation and Quality Assurance
+
+              </li>
+              <li>
+                Active Learning
+
+              </li>
+              <li>
+                Assessment and Evaluation
+
+              </li>
+              <li>
+                Computer-Based Learning and Courseware Technologies
+
+              </li>
+              <li>
+                E-assessment
+
+              </li>
+              <li>
+                E-learning in the Workplace
+
+              </li>
+              <li>
+                Ethical and Social Justice Issues
+
+              </li>
+              <li>
+                Generic Skills (e.g., Communications, Teamwork)
+
+              </li>
+              <li>
+                Industry Linkages and Partnerships
+
+              </li>
+              <li>Infrastructure and Technology for Engineering Education
+
+              </li>
+              <li>
+                Interdisciplinary Teaching Approaches
+
+              </li>
+              <li>
+                Introductory Engineering and Computing Courses
+
+              </li>
+              <li>
+                Learning Management Systems
+
+              </li>
+              <li>
+                Learning Models
+
+              </li>
+              <li>
+                Mobile Learning
+
+              </li>
+              <li>
+                Service Learning
+
+              </li>
+              <li>
+                Technology Enhanced Learning for students with special needs
+
+              </li>
+            </ul>
+          </p>
+        </div>
+
+        <div className="container" >
+          <h1 className="mt-5 mb-3 green-heading">Important Dates</h1>
+
+          {/* <Table bordered > */}
+
+          <Table bordered >
+            <tbody>
+              <tr>
+
+                <td>Full Paper Submission due </td>
+                <td>May 31, 2023</td>
+
+
+
+              </tr>
+              <tr>
+                <td>Acceptance Notification due </td>
+
+                <td>June 22, 2023</td>
+
+
+
+              </tr>
+              <tr>
+                <td>Camera Ready Paper due   </td>
+                <td>July 22, 2023</td>
+              </tr>
+
+              <tr>
+                <td>Workshop proposal due   </td>
+                <td>July 31, 2022</td>
+              </tr>
+
+              <tr>
+                <td>Registration due  </td>
+                <td>August 22, 2023</td>
+              </tr>
+
+              <tr>
+                <td>Conference Date </td>
+                <td >September 22-23, 2023</td>
+              </tr>
+            </tbody>
+          </Table>
+
+
+        </div>
+
+
+
+      </div>
+
+    );
+  }
+}
+
+
+export default Theme;

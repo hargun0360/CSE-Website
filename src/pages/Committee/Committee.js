@@ -7,8 +7,8 @@ import Main from '../../Components/Committee/Committee'
 function Committee() {
   return (
     <>
-    <Header active='committee'/>
-    <Main/>
+      <Header active='committee' />
+      <Main />
       <Footer />
     </>
   );

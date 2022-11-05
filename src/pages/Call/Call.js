@@ -11,13 +11,13 @@ import Tracks from '../../Components/Theme/Theme'
 function Call() {
   return (
     <>
-    <Header active='call'/>
+      <Header active='call' />
 
-    <Main/>  
-    <Tracks/>  
-    
+      <Main />
+      <Tracks />
 
-      <br /> <br/>
+
+      <br /> <br />
       <Footer />
     </>
   );

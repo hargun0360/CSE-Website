@@ -6,11 +6,11 @@ import Banner from "../../Components/banner/Banner"
 import Main from "../../Components/Registration/Registration"
 
 const Registration = () => {
-    return(
+    return (
         <>
-        <Header active="registration" />
-        <Main/>
-        <Footer />
+            <Header active="registration" />
+            <Main />
+            <Footer />
         </>
     )
 }
