@@ -1,6 +1,6 @@
 {
   "name": "ensite",
-  "homepage": "https://akgec2022.org/",
+  "homepage": "https:///hargun0360.github.io/CSE-Website",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -47,6 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^4.0.0"
   }
 }

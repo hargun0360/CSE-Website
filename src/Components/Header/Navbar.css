@@ -15,7 +15,7 @@
 }
 
 .navbarcolor{
-    background-color: #1F842E !important;
+    background-color: #3574b0 !important;
 }
 
 
@@ -40,10 +40,12 @@
         border-bottom: 2px solid white !important;
     }
     .active:hover{
-        background: #4b9c57 !important;
+        background: white !important;
+        color: #1F1F1F !important;
     }
     .inactive:hover{
-        background: #4b9c57 !important;
+        background: white !important;
+        color: #1F1F1F !important;
     }
 }
 
