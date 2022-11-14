@@ -1,6 +1,6 @@
 {
   "name": "cse-website",
-  "homepage": "https://acet2023.com",
+  "homepage": "http://acet2023.com",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
