@@ -579,7 +579,7 @@ class Theme extends Component {
 
               <tr>
                 <td>Conference Date </td>
-                <td >September 22-23, 2023</td>
+                <td >October 06-07, 2023</td>
               </tr>
             </tbody>
           </Table>
