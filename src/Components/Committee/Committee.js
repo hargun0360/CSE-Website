@@ -30,8 +30,10 @@ class Theme extends Component {
                                 <th className="noborder">Patron</th>
                             </tr>
                             <tr>
-                                <td className="tdborder"> Dr. R.K. Agarwal<br />Director General, AKGEC </td>
-                                <td className="tdborder">Dr. P.K. Chopra<br />Director, AKGEC</td>
+                                <td className="tdborder"> Prof. Pradeep Kumar Mishra<br />Vice Chancellor, Dr. A.P.J. Abdul Kalam
+                                    Technical University, Lucknow, India </td>
+                                <td className="tdborder">Dr. R. K. Agarwal <br /> Director General, Ajay Kumar Garg Engineering College,
+                                    Ghaziabad, India</td>
                             </tr>
 
                         </tbody>
@@ -41,11 +43,11 @@ class Theme extends Component {
                         <tbody>
                             <tr>
                                 <th className="noborder">General Chair</th>
-                                <th className="noborder">Conference Chair</th>
+                                <th className="noborder">Technical Chair</th>
                             </tr>
                             <tr>
-                                <td className="tdborder">Dr. B.K. Panigrahi<br />Professor, IIT Delhi</td>
-                                <td className="tdborder">Dr. Hemant Ahuja<br />Professor & Head (EN), AKGEC</td>
+                                <td className="tdborder">Dr. Sunita Yadav<br />HoD (CSE), AKGEC, Ghaziabad, India</td>
+                                <td className="tdborder">Dr. Rajesh Prasad <br />AKGEC, Ghaziabad, India</td>
                             </tr>
 
                         </tbody>
@@ -57,19 +59,15 @@ class Theme extends Component {
                     <Table borderless className="mb-5 borderbtm">
                         <tbody>
                             <tr>
-                                <th className="noborder">Organizing Chair</th>
+                                <th className="noborder">Program Chairs</th>
                             </tr>
                             <tr>
-                                <td className="tdborder"> Dr. Pallab Biswas<br />
-                                    Professor & Head (ME), AKGEC
-                                    <br /><br />
-                                    Dr. Anu Chaudhary<br />
-                                    Professor & Head (IT), AKGEC</td>
-                                <td className="tdborder">Dr. Neelesh Kumar Gupta<br />
-                                    Professor & Head (ECE), AKGEC<br />
-                                    <br />
-                                    Prof. V.K. Parashar<br />
-                                    Professor (EN), AKGEC</td>
+                                <td className="tdborder"> Dr. Sonam Gupta<br />
+                                    AKGEC, Ghaziabad, India
+                                </td>
+                                <td className="tdborder">Dr. Charu Agarwal<br />
+                                    AKGEC, Ghaziabad, India<br />
+                                </td>
                             </tr>
 
                         </tbody>
@@ -78,19 +76,13 @@ class Theme extends Component {
                     <Table borderless className="mb-5 borderbtm">
                         <tbody>
                             <tr>
-                                <th className="noborder">Steering Committee </th>
+                                <th className="noborder">Publicity Chair </th>
                             </tr>
                             <tr>
-                                <td className="tdborder"> Dr. Ashiv Shah<br />
-                                    Professor & Head, AKGEC Skills
-                                    <br /><br />
-                                    Dr. Sunita Yadav<br />
-                                    Professor & Head (CSE), AKGEC</td>
-                                <td className="tdborder">Dr. B. K. Sharma<br />
-                                    Professor & Head, AKGEC-MCA<br />
-                                    <br />
-                                    Dr. Rakesh Srivastava<br />
-                                    Professor & Head (CE), AKGEC</td>
+                                <td className="tdborder"> Dr. Sachin Kumar,
+                                    AKGEC, Ghaziabad, India
+                                </td>
+
                             </tr>
 
                         </tbody>
@@ -98,14 +90,13 @@ class Theme extends Component {
 
                     <Table >
                         <thead>
-                            <th className="noborder">Organizing Secretary  </th>
+                            <th className="noborder" >Publicity Co-Chair  </th>
                         </thead>
                         <tbody className="tableNew">
 
                             <tr>
-                                <td>Dr. A.K. Rai<br />Professor (EN), AKGEC</td>
-                                <td>Dr. Vani Bhargava<br />Associate Professor (EN), AKGEC</td>
-                                <td>Dr. Sukhwinder Singh<br /> Associate Professor (EN), AKGEC </td>
+                                <td>Mr. Anuj Kumar Dwivedi<br />AKGEC, Ghaziabad, India</td>
+                                <td>Mr. Santosh Kumar Upadhyay<br />AKGEC, Ghaziabad, India</td>
                             </tr>
 
                         </tbody>
@@ -124,15 +115,105 @@ class Theme extends Component {
             </tbody>
         </Table> */}
 
-                    <Table borderless className="mb-5 borderbtm">
+                    <Table borderless className="mb-3 borderbtm">
                         <tbody>
                             <tr>
                                 <th className="noborder">Finance Chair</th>
                             </tr>
                             <tr>
-                                <td className="tdborder">Mr. Ravindra Kumar<br />Assistant Professor (EN), AKGEC</td>
-                                <td className="tdborder">Dr. J.G. Yadav<br />Associate Professor (EN) , AKGEC</td>
+                                <td className="tdborder">Dr. Shashank Sahu, AKGEC, Ghaziabad, India</td>
+
                             </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table borderless className="mb-3 borderbtm">
+                        <tbody>
+                            <tr>
+                                <th className="noborder">Finance Co-Chair</th>
+                            </tr>
+                            <tr>
+                                <td className="tdborder">Mr. B. N. Pandey, AKGEC, Ghaziabad, India</td>
+
+                            </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table borderless className="mb-3 borderbtm">
+                        <tbody>
+                            <tr>
+                                <th className="noborder">Sponsorship Chair</th>
+                            </tr>
+                            <tr>
+                                <td className="tdborder">Ms. Inderjeet Kaur, AKGEC, Ghaziabad, India</td>
+
+                            </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table borderless className="mb-3 borderbtm">
+                        <tbody>
+                            <tr>
+                                <th className="noborder">Sponsorship Co-Chair</th>
+                            </tr>
+                            <tr>
+                                <td className="tdborder">Mr. Pronab Kumar Adhikari, AKGEC, Ghaziabad, India</td>
+
+                            </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table borderless className="mb-5 borderbtm">
+                        <tbody>
+                            <tr>
+                                <th className="noborder">Workshop Chair</th>
+                            </tr>
+                            <tr>
+                                <td className="tdborder">Dr. Pratima Singh, AKGEC, Ghaziabad, India</td>
+
+                            </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table >
+                        <thead>
+                            <th className="noborder">Workshop Co-Chairs</th>
+                        </thead>
+                        <tbody className="tableNew">
+
+
+                            <tr>
+                                <td>Ms. Jaishree Jain<br />AKGEC, Ghaziabad, India</td>
+                                <td>Mr. Pradeep Gupta<br />AKGEC, Ghaziabad, India</td>
+                            </tr>
+
+
+                        </tbody>
+                    </Table>
+                    <Table borderless className="mb-5 borderbtm">
+                        <tbody>
+                            <tr>
+                                <th className="noborder">Local Organizing Chair</th>
+                            </tr>
+                            <tr>
+                                <td className="tdborder">Mr. Akhilesh Verma, AKGEC, Ghaziabad, India</td>
+
+                            </tr>
+
+                        </tbody>
+                    </Table>
+                    <Table >
+                        <thead>
+                            <th className="noborder">Local Organizing Co-Chairs</th>
+                        </thead>
+                        <tbody className="tableNew">
+
+
+                            <tr>
+                                <td>Ms. Nishu Bansal<br />AKGEC, Ghaziabad, India</td>
+                                <td>Ms. Shiva Tyagi<br />AKGEC, Ghaziabad, India</td>
+                            </tr>
+
 
                         </tbody>
                     </Table>
@@ -140,56 +221,30 @@ class Theme extends Component {
                     <Table borderless className="mb-5 borderbtm">
                         <tbody>
                             <tr>
-                                <th className="noborder">Publicity Chair</th>
+                                <th className="noborder">Conference Secretaries</th>
                             </tr>
                             <tr>
-                                <td className="tdborder">
-                                    Dr. Dibya Bharti <br />
-                                    Assistant  Professor (EN), AKGEC<br />
-                                    <br />
-                                    Mr. Neeraj Gupta<br />
-                                    Assistant  Professor (EN), AKGEC</td>
-                                <td className="tdborder">
-                                    Mr. Deepak Narang <br />
-                                    Assistant Professor(EN) , AKGEC<br /><br />
-                                    Mr. Parveen Kumar Dhull <br />
-                                    Assistant Professor(EN) , AKGEC
-                                </td>
+                                <td className="tdborder">Mr. Ashish Kumar, AKGEC, Ghaziabad, India</td>
+
                             </tr>
 
                         </tbody>
                     </Table>
 
-                    <Table borderless className="mb-5 borderbtm">
-                        <tbody>
-                            <tr>
-                                <th className="noborder">Publication Chair</th>
-                            </tr>
-                            <tr>
-                                <td className="tdborder">
-                                    Dr. Sarika Kalra<br />
-                                    Associate Professor (EN), AKGEC</td>
-                                <td className="tdborder">
-                                    Dr. Namrata Gangil<br />
-                                    Associate Professor(ME) , AKGEC</td>
-                            </tr>
-
-                        </tbody>
-                    </Table>
 
                     <Table>
                         <thead>
-                            <th>Screening Committee </th>
+                            <th>Editorial Chair </th>
                         </thead>
                         <tbody className="tableNew">
                             <tr>
-                                <td>Dr. Inderjeet Kaur<br />Professor (CSE), AKGEC</td>
-                                <td>Dr. Sachin Kumar<br />Professor (CSE), AKGEC</td>
-                                <td>Dr. Anupama Sharma<br />Associate Professor (IT), AKGEC</td>
+                                <td>Dr. Sunita Yadav<br />AKGEC, Ghaziabad, India</td>
+                                <td>Dr. Dilip Sharma<br />GLA University, Mathura, India</td>
+                                <td>Dr. Rajesh Prasad<br />AKGEC, Ghaziabad, India</td>
                             </tr>
                             <tr>
-                                <td>Dr. Amrita Jyoti<br />Assistant Professor (IT), AKGEC</td>
-                                <td>Dr. Alok Vardhan<br />Assistant Professor (ME), AKGEC</td>
+                                <td>Dr. Sonam Gupta<br />AKGEC, Ghaziabad, India</td>
+                                <td>Dr. Charu Agarwal<br />AKGEC, Ghaziabad, India</td>
                                 <td></td>
                             </tr>
                         </tbody>
@@ -201,7 +256,7 @@ class Theme extends Component {
                     <Table borderless className="mb-5 borderbtm" responsive="md">
                         <tbody>
                             <tr>
-                                <th colSpan="2">Honorary Advisory Committee</th>
+                                <th colSpan="2">Advisory Committee</th>
                             </tr>
 
                             <tr>
@@ -212,223 +267,122 @@ class Theme extends Component {
 
                             <tr>
                                 <td className="snowidth text-center">1</td>
-                                <td className="nametd">Dr. Ambrish Chandra</td>
-                                <td className="afftd">Professor, Ecole de Technologie Superieure, University of Quebec, Montreal, Quebec.</td>
+                                <td className="nametd">Dr. Prabhakar Tiwari</td>
+                                <td className="afftd">Chair, Conference Committee, IEEE UP Section</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">2</td>
-                                <td className="nametd">Dr. Bhim Singh</td>
-                                <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+                                <td className="nametd">Prof. Asheesh Kumar</td>
+                                <td className="afftd">Mentor, Conference Committee, IEEE UP Section</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">3</td>
-                                <td className="nametd">Dr. Frede Blaabjerg</td>
-                                <td className="afftd">Professor, AAU Energy</td>
+                                <td className="nametd">Dr. Dilip Sharma</td>
+                                <td className="afftd">GLA University, Mathura, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">4</td>
-                                <td className="nametd">Dr. G Bhuvaneshwari</td>
-                                <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+                                <td className="nametd">Dr. Daniel Okunbor</td>
+                                <td className="afftd">Fayetteville Stare University, North Carolina</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">5</td>
-                                <td className="nametd">Dr. Garabed Boghossian</td>
-                                <td className="afftd">Lecturer, Haigazian University, Lebanon</td>
+                                <td className="nametd">Dr. Shyam Nair</td>
+                                <td className="afftd">National Commission on Higher Education Liberia</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">6</td>
-                                <td className="nametd">Dr. Harish Sharma Krishnamoorthy</td>
-                                <td className="afftd">Assistant Professor, University of Houston</td>
+                                <td className="nametd">Dr. Bhimsingh Bohara</td>
+                                <td className="afftd">BlueCrest Ghana</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">7</td>
-                                <td className="nametd">Dr. Hatem Hatef Abdulkadim Altae</td>
-                                <td className="afftd">Professor, Cihan University, Iraq</td>
+                                <td className="nametd">Dr. Shyam Nair</td>
+                                <td className="afftd">BlueCrest University Liberia</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">8</td>
-                                <td className="nametd">Dr. Herbert H.C Lu</td>
-                                <td className="afftd">Professor, University of Western Australia</td>
+                                <td className="nametd">Dr. Alessio</td>
+                                <td className="afftd">Università del Piemonte Orientale</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">9</td>
-                                <td className="nametd">Dr. Kaushik Rajashekara</td>
-                                <td className="afftd">Distinguished Professor of Engineering, University of Houston</td>
+                                <td className="nametd">Dr. Daniel Okunbor</td>
+                                <td className="afftd">Fayetteville Stare University, North Carolina</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">10</td>
-                                <td className="nametd">Dr. M.A. Rahman</td>
-                                <td className="afftd">Professor, Memorial University of Newfoundland, Engineering and Applied Science.</td>
+                                <td className="nametd">Dr Vibhash Yadav</td>
+                                <td className="afftd">Rajkiya Engineering College, Banda. UP</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">11</td>
-                                <td className="nametd">Dr. Mohan Lal Kolhe</td>
-                                <td className="afftd">Professor, Smart and Renewable Energy, Faculty of Engineering and Science, University of Agder, Norway</td>
+                                <td className="nametd">Dr. Amos DAVID</td>
+                                <td className="afftd">Lorraine University, France</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">12</td>
-                                <td className="nametd">Dr. Muhammad H Rashid</td>
-                                <td className="afftd">Professor, Florida Polytechnic University</td>
+                                <td className="nametd">Dr. Ashish Khare</td>
+                                <td className="afftd">University of Allahabad</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">13</td>
-                                <td className="nametd">Dr. Ned Mohan</td>
-                                <td className="afftd">Regents Professor, University of Minnesota, United States</td>
+                                <td className="nametd">Dr.Suneeta Agarwal</td>
+                                <td className="afftd">Moti Lal Nehru National Institute of Technology Allahabad,
+                                    Prayagraj, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">14</td>
-                                <td className="nametd">Dr. O P. Malik</td>
-                                <td className="afftd">Professor Emeritus, The University of Calgary, Department of Electrical and Computer Engineering</td>
+                                <td className="nametd">Prof Phool Singh</td>
+                                <td className="afftd">Central University of Haryana, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">15</td>
-                                <td className="nametd">Dr. Parimita Mohanty</td>
-                                <td className="afftd">Programme Management Officer, UNEP, Bangkok, TERI</td>
+                                <td className="nametd">Dr. Rung-Ching Chen</td>
+                                <td className="afftd">Chaoyang University of Technology, Taiwan</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">16</td>
-                                <td className="nametd">Dr. Pramod Agarwal</td>
-                                <td className="afftd">Professor, Indian Institute of Technology Roorkee</td>
+                                <td className="nametd">Dr. Chuan-Ming Liu</td>
+                                <td className="afftd">National Taipei University of Technology, Taiwan</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">17</td>
-                                <td className="nametd">Dr. Prasad Enjeti</td>
-                                <td className="afftd">Professor, Electrical & Computer Engineering Texas A&M University</td>
+                                <td className="nametd">Dr. Mridul Kumar Gupta</td>
+                                <td className="afftd">Chaudhary Charan Singh University, Meerut, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">18</td>
-                                <td className="nametd">Dr. R. Balasubramanian</td>
-                                <td className="afftd">Professor, Indian Institute of Technology Delhi</td>
+                                <td className="nametd">Dr. Supriya P.Panda</td>
+                                <td className="afftd">Manav Rachna International Institute of Research and Studies,
+                                    India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">19</td>
-                                <td className="nametd">Dr. Rajiv K. Verma</td>
-                                <td className="afftd">Professor, Electrical and Computer Engg., The University of Western Ontario, London, ON, Canada</td>
+                                <td className="nametd">Dr. Parvinder Singh</td>
+                                <td className="afftd">Deenbandhu Chhotu Ram University of Science and
+                                    Technology Murthal, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">20</td>
-                                <td className="nametd">Dr. Ramkrishan Maheshwari</td>
-                                <td className="afftd">Lektor, Centre for Industrial Electronics, University of Southern Denmark.</td>
+                                <td className="nametd">Dr. Om Prakash Sangwan</td>
+                                <td className="afftd">Guru Jambheshwar University of Science &amp; Technology, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">21</td>
-                                <td className="nametd">Dr. Seyed M.K. Sadr</td>
-                                <td className="afftd">Postdoctoral Research Fellow, University of Exeter, United Kingdom</td>
+                                <td className="nametd">Dr. Prabha Sharma</td>
+                                <td className="afftd">The North Cap University, Sector 23,Gurugram, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">22</td>
-                                <td className="nametd">Dr. Shady H.E. Abdul Aleem</td>
-                                <td className="afftd">Associate Professor, High Valley Institute for Engineering & Technology, Egypt</td>
+                                <td className="nametd">Prof. P. K. Kapur</td>
+                                <td className="afftd">Amity Center for Interdisciplinary Research, Amity University,
+                                    Noida, India</td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">23</td>
-                                <td className="nametd">Dr. Shailaditya Verma</td>
-                                <td className="afftd">Lecturer, Higher Colleges of Technology, Fujairah Women’s College</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">24</td>
-                                <td className="nametd">Dr. Siva Kumar K.</td>
-                                <td className="afftd">Associate Professor, IIT Hyderabad, Kandi</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">25</td>
-                                <td className="nametd">Dr. Sudipta Ghosh</td>
-                                <td className="afftd">Khaufa Univ. of Sciences and Tech. Abu Dhabi, United Arab Emirates</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">26</td>
-                                <td className="nametd">Dr. Tzung-Pei Hong</td>
-                                <td className="afftd">Distinguished Professor, National University of Kaohsiung, Taiwan</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">27</td>
-                                <td className="nametd">Dr. Urmil Parikh</td>
-                                <td className="afftd">Global ,Program Manager, Hitachi Energy India Limited</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">28</td>
-                                <td className="nametd">Dr. Valentina E.Balas</td>
-                                <td className="afftd">Professor, Aurel Vlaicu University of Arad, Romania</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">29</td>
-                                <td className="nametd">Dr. Wael R. Abdulmajeed</td>
-                                <td className="afftd">Postgraduate Studies Coordinator, University of Baghdad</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">30</td>
-                                <td className="nametd">Dr. Yu-Chen Hu</td>
-                                <td className="afftd">Distinguished Professor, Providence University, Shalu, Taiwan</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">31</td>
-                                <td className="nametd">Dr. Sanjeet Dwivedi</td>
-                                <td className="afftd">Danfoss Power Electronics A/S, Drive Intelligence Group Gråsten, Denmark</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">32</td>
-                                <td className="nametd">Dr. Talochan S. Sidhu</td>
-                                <td className="afftd">Professor & Chair , Department of Electrical and Computer Engineering, The University of Western Ontario, London, Ontario, Canada</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">33</td>
-                                <td className="nametd">Mr. Aashutosh Sharma</td>
-                                <td className="afftd">CEO, Voltrans Energy, Noida</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">34</td>
-                                <td className="nametd">Mr. Amit Agarwal </td>
-                                <td className="afftd">Dy. Managing Director Ghaziabad Precision Products Pvt. Ltd., Ghaziabad</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">35</td>
-                                <td className="nametd">Mr. Ankur Jain</td>
-                                <td className="afftd">Analytics Operations Quality, GE Power</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">36</td>
-                                <td className="nametd">Mr. Kshitiz Kulshrestha</td>
-                                <td className="afftd">GM (SPM), Reliance Jio, Mumbai</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">37</td>
-                                <td className="nametd">Mr. Navneet Kumar</td>
-                                <td className="afftd">DGM(SPM), Reliance Jio, Mumbai </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">38</td>
-                                <td className="nametd">Mr. R.R. Tanwar</td>
-                                <td className="afftd">Council Member, IEI, Electrical Division</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">39</td>
-                                <td className="nametd">Mr. Rajesh Bhalla</td>
-                                <td className="afftd">Manager, Larsen & Turbo Limited</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">40</td>
-                                <td className="nametd">Mr. Subramanyam Pulipaka</td>
-                                <td className="afftd">CEO, National Solar Federation of India</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">41</td>
-                                <td className="nametd">Mr. Vikas Marwah</td>
-                                <td className="afftd">Sr. Aditional GM, Satluj Jal Vidyut Nigam, Himachal Pradesh</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">42</td>
-                                <td className="nametd">Mr. Vikas Munjal</td>
-                                <td className="afftd">Technical Program Manager, Google, California, USA</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">43</td>
-                                <td className="nametd">Mr. Vineet Saini</td>
-                                <td className="afftd">Scientist , Department of Science and Technology, Delhi</td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">44</td>
-                                <td className="nametd">Mr. Yogesh Ratra</td>
-                                <td className="afftd">Sr. Control Systems Design Engineer, Fluor Corporation, Canada</td>
+                                <td className="nametd">Dr. Ali Kashif Bashir</td>
+                                <td className="afftd">Manchester Metropolitan University, UK</td>
                             </tr>
                         </tbody>
                     </Table>
@@ -437,7 +391,7 @@ class Theme extends Component {
                     <Table borderless className="mb-5 borderbtm">
                         <tbody>
                             <tr>
-                                <th colSpan="2">Honorary Technical Committee</th>
+                                <th colSpan="2">Technical Program Committee</th>
                             </tr>
 
                             <tr>
@@ -448,566 +402,296 @@ class Theme extends Component {
 
                             <tr>
                                 <td className="snowidth text-center">1</td>
-                                <td className="nametd">Dr. A. N. Tiwari</td>
-                                <td className="afftd">Professor, Electrical Engineering Department, MMMUT, Gorakhpur
+                                <td className="nametd">Dr. Shashi Bhushan</td>
+                                <td className="afftd">Amity University Punjab, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">2</td>
-                                <td className="nametd">Dr. A.K. Tandon</td>
-                                <td className="afftd">Former professor DTU, Delhi
+                                <td className="nametd">Dr. Manoj Kumar</td>
+                                <td className="afftd">University of Wollongong in Dubai
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">3</td>
-                                <td className="nametd">Dr. Ajay Shekhar Pandey</td>
-                                <td className="afftd">Professor, EE, KNIT Sultanpur
+                                <td className="nametd">Dr. Sujith Jayaprakash</td>
+                                <td className="afftd">BlueCrest University College, Ghana
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">4</td>
-                                <td className="nametd">Dr. AkshayGirdhar</td>
-                                <td className="afftd">Professor, Electrical Engineering Department, GNDEC, Ludhiana
+                                <td className="nametd">Dr. Suman</td>
+                                <td className="afftd">Bhagwan Parshuram Institute of Technology,
+Delhi
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">5</td>
-                                <td className="nametd">Dr. Ambarisha Mishra</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, NIT Patna
+                                <td className="nametd">Dr. Abhilasha Singh</td>
+                                <td className="afftd">SRM Institute of Science and Technology,
+Delhi-NCR Campus, Ghaziabad
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">6</td>
-                                <td className="nametd">Dr. Amit Jain</td>
-                                <td className="afftd">Associate Professor, Electrical Engineering Department,  IIT Delhi
+                                <td className="nametd">Dr. Bhawna Suri</td>
+                                <td className="afftd">Bhagwan Parshuram Institute of Technology,
+Delhi
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">7</td>
-                                <td className="nametd">Dr. Anish Gupta</td>
-                                <td className="afftd">Assistant Director, Chandigarh University
+                                <td className="nametd">Dr. Sherin Zafar</td>
+                                <td className="afftd">Jamia Hamdard, Delhi
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">8</td>
-                                <td className="nametd">Dr. Anupma Marwaha</td>
-                                <td className="afftd">Professor, Electrical and Electronics Engineering, SLIET, Longowal
+                                <td className="nametd">Prof(Dr)Laxmi Ahuja</td>
+                                <td className="afftd">Amity University, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">9</td>
-                                <td className="nametd">Dr. Anuradha Tomar</td>
-                                <td className="afftd">Associate Professor, NSUT, Delhi
+                                <td className="nametd">Dr. Praveen Kumar</td>
+                                <td className="afftd">Amity University Tashkent Uzbekistan
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">10</td>
-                                <td className="nametd">Dr. Apurva Anand</td>
-                                <td className="afftd">BBDIT University, Lucknow
+                                <td className="nametd">Dr.Seema Rawat</td>
+                                <td className="afftd">Amity University Tashkent, Uzbekistan
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">11</td>
-                                <td className="nametd">Dr. Arun Kumar Verma</td>
-                                <td className="afftd">Assistant Professor, EE, MNIT, Jaipur
+                                <td className="nametd">Dr. Rana Majumdar</td>
+                                <td className="afftd">Sister Nivedita University
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">12</td>
-                                <td className="nametd">Dr. Arun Sharma</td>
-                                <td className="afftd">Head & Professor in Department of Artificial Intelligence and Data Science, Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
+                                <td className="nametd">Dr. Francisca Nonyelum Ogwueleka</td>
+                                <td className="afftd">University of Abuja, Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">13</td>
-                                <td className="nametd">Dr. Arvind Kumar Sharma</td>
-                                <td className="afftd">Professor, KIET, Ghaziabad, U.P
+                                <td className="nametd">Dr. Olumide Owolabi</td>
+                                <td className="afftd">University of Abuja, Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">14</td>
-                                <td className="nametd">Dr. Aseem Chandel</td>
-                                <td className="afftd">Associate Professor, Govt. Engineering College, Mainpuri, UP
+                                <td className="nametd">Dr. Kirti Seth</td>
+                                <td className="afftd">Inha University Tashkeny
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">15</td>
-                                <td className="nametd">Dr. Asheesh Kumar Singh</td>
-                                <td className="afftd">Professor, MNNIT, Pryagraj
+                                <td className="nametd">Dr. Sanjeev Kumar</td>
+                                <td className="afftd">United University 
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">16</td>
-                                <td className="nametd">Dr. Ashish Malik</td>
-                                <td className="afftd">Director, Axis Group of Colleges, Kanpur, U.P
+                                <td className="nametd">Dr. SULEIMAN SALIHU JAURO</td>
+                                <td className="afftd">Gombe State University Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">17</td>
-                                <td className="nametd">Dr. Ashish Srivastava</td>
-                                <td className="afftd">Professor, EE, Manipal University, Jaipur, Rajasthan
+                                <td className="nametd">Dr. Valentina Emilia Balas</td>
+                                <td className="afftd">Aurel Vlaicu University of Arad, Romania
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">18</td>
-                                <td className="nametd">Dr. D. K. Khatod</td>
-                                <td className="afftd">Professor, IIT Roorkee
+                                <td className="nametd">Dr. Utkarsh Goel</td>
+                                <td className="afftd">IIIT Allahabad, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">19</td>
-                                <td className="nametd">Dr. G.N. Tiwari</td>
-                                <td className="afftd">Professor, IIT, Delhi
+                                <td className="nametd">Dr. Abhay Kumar Agarwal</td>
+                                <td className="afftd">Kamla Nehru Institute of Technology,
+Sultanpur
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">20</td>
-                                <td className="nametd">Dr. Gagandeep Singh Sodhi</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, GNDEC, Ludhiana
+                                <td className="nametd">Dr Hashim Ibrahim Bisallah</td>
+                                <td className="afftd">Kampala International University, Uganda
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">21</td>
-                                <td className="nametd">Dr. Gyan Ranjan Biswal</td>
-                                <td className="afftd">Associate Professor & Head, Electrical and Electronics Engineering, Veer Surendra Sai University of Technology (VSSUT) Odisha
+                                <td className="nametd">Dr. Sandeep Singh</td>
+                                <td className="afftd">Dept. of CSE, The NorthCap University,
+Gurugram
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">22</td>
-                                <td className="nametd">Dr. Harkamalpreet Singh</td>
-                                <td className="afftd">Assistant Professor, Punjabi University, Patiala
+                                <td className="nametd">Dr. Vikash Yadav</td>
+                                <td className="afftd">Board of Technical Education, Uttar Pradesh,
+India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">23</td>
-                                <td className="nametd">Dr. Hasmat Malik</td>
-                                <td className="afftd">Professor, BEARS, NUS Campus, Singapore
+                                <td className="nametd">Dr. Alhassan Adamu</td>
+                                <td className="afftd">Kano University of Science and Technology,
+Wudil
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">24</td>
-                                <td className="nametd">Dr. Het Bhalja</td>
-                                <td className="afftd">Department of Electrical Engineering Indian Institute of Technology Roorkee, India
+                                <td className="nametd">Dr.Gurseen Rakhra</td>
+                                <td className="afftd">Manav Rachna International Institute of
+Research and Studies, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">25</td>
-                                <td className="nametd">Dr. J.S. Lather</td>
-                                <td className="afftd">Professor, NIT, Kurukshetra
+                                <td className="nametd">Dr. H. M. Singh</td>
+                                <td className="afftd">SHUATS, Prayagraj, Uttar Pradesh
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">26</td>
-                                <td className="nametd">Dr. Jay Singh</td>
-                                <td className="afftd">Associate Professor, GL Bajaj Institute of Technology and Management, Greater Noida
+                                <td className="nametd">Dr Sunil Kumar</td>
+                                <td className="afftd">Manipal University Jaipur
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">27</td>
-                                <td className="nametd">Dr. Jiwanjot Singh</td>
-                                <td className="afftd">Assistant Professor, NIT Silchar
+                                <td className="nametd">Dr. Benatiallah Ali</td>
+                                <td className="afftd">Laboratory Leesi Adrar University, Algeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">28</td>
-                                <td className="nametd">Dr. K. P. Singh</td>
-                                <td className="afftd">National Power Training Institute (NPTI), Faridabad
+                                <td className="nametd">Dr. Bireshwar Dass Mazumdar</td>
+                                <td className="afftd">United University Prayagraj
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">29</td>
-                                <td className="nametd">Dr. K. S. Verma, </td>
-                                <td className="afftd">Professor, Electrical Engineering Department, KNIT Sultanpur
+                                <td className="nametd">Dr. Radha Raman Chandan </td>
+                                <td className="afftd">School of Management Sciences(SMS),
+Varanasi
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">30</td>
-                                <td className="nametd">Dr. K.K. Prajapati</td>
-                                <td className="afftd">RTU Kota, Rajasthan
+                                <td className="nametd">Dr Manmohan Mishra</td>
+                                <td className="afftd">United Institute of Management, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">31</td>
-                                <td className="nametd">Dr. Kanwardeep Singh</td>
-                                <td className="afftd">Professor & Head, Electrical Engineering Department, GNDEC, Ludhiana
+                                <td className="nametd">Dr. Praveen Kumar Shukla</td>
+                                <td className="afftd">Department of Computer Science &amp;
+Engineering, Babu Banarasi Das University,
+Lucknow, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">32</td>
-                                <td className="nametd">Dr. Kirti Pal</td>
-                                <td className="afftd">Associate Professor, GBU, Greater Noida
+                                <td className="nametd">Dr Muhammed Kabir Ahmed</td>
+                                <td className="afftd">Department of Computer Science Gombe Sate
+University
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">33</td>
-                                <td className="nametd">Dr. Kuldeep Sahay</td>
-                                <td className="afftd">Professor, Electrical Engineering Department IET, Lucknow
+                                <td className="nametd">Dr. Yogesh Kumar Gupta</td>
+                                <td className="afftd">Banasthali Vidyapith, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">34</td>
-                                <td className="nametd">Dr. Kunal Bhatt</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering, L.D. College of Engineering, Ahmedabad
+                                <td className="nametd">Dr. Neeraj Chugh</td>
+                                <td className="afftd">University of Petroleum and Energy Studies,
+Dehradun, Uttarakhand
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">35</td>
-                                <td className="nametd">Dr. M.A. Ansari</td>
-                                <td className="afftd">Professor, GautamBudhaUnivesity, Gr. Noida
+                                <td className="nametd">Dr. Arun Kumar Yadav</td>
+                                <td className="afftd">NIT Hamirpur, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">36</td>
-                                <td className="nametd">Dr. Majid Jamil</td>
-                                <td className="afftd">Professor, JamiaMilliaIslamia
+                                <td className="nametd">Dr. Chintan Kr Mandal</td>
+                                <td className="afftd">Jadavpur University, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">37</td>
-                                <td className="nametd">Dr. Mala De</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, NIT Patna
+                                <td className="nametd">Dr. Dac-Nhuong Le</td>
+                                <td className="afftd">Haiphong University, Vietnam
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">38</td>
-                                <td className="nametd">Dr. Manish Kumar Saini</td>
-                                <td className="afftd">DCRUST Murthal
+                                <td className="nametd">Dr. Piyush Mahendru</td>
+                                <td className="afftd">Manav Rachna University, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">39</td>
-                                <td className="nametd">Dr. Manish Saraswat</td>
-                                <td className="afftd">Professor and head, ME, Lloyd College, Greater Noida
+                                <td className="nametd">Dr. Audu Musa Mabu</td>
+                                <td className="afftd">Yobe State University, Damaturu. Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">40</td>
-                                <td className="nametd">Dr. Manmohan Singh</td>
-                                <td className="afftd">Associate Professor, EIE Department, SLIET, Longowal
+                                <td className="nametd">Dr. P. Raghu Vamsi</td>
+                                <td className="afftd">Jaypee Institute of Information Technology,
+Noida, India.
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">41</td>
-                                <td className="nametd">Dr. Manoj Kumar Duhan</td>
-                                <td className="afftd">Professor, DCRUST Murthal, Communication systems
+                                <td className="nametd">Dr. Avdhesh Gupta</td>
+                                <td className="afftd">Ajay Kumar Garg Engineering College,
+Ghaziabad
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">42</td>
-                                <td className="nametd">Dr. Manpreet Singh</td>
-                                <td className="afftd">Associate Professor, Electrical Engineering Department, GNDEC, Ludhiana
+                                <td className="nametd">Dr. Mustapha Ismail</td>
+                                <td className="afftd">Gombe State University, Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">43</td>
-                                <td className="nametd">Dr. Manpreet Singh Manna</td>
-                                <td className="afftd">Associate Professor, EIE Department, Ex Director  AICTE, MHRD, New Delhi
+                                <td className="nametd">Dr. Obunadike Georgina Nkolika</td>
+                                <td className="afftd">Federal University Dutsinma, Katsina State
+Nigeria
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">44</td>
-                                <td className="nametd">Dr. Mohd. Rihan</td>
-                                <td className="afftd">Professor, EE, AMU Aligarh
+                                <td className="nametd">Dr. Gaurav Khanna</td>
+                                <td className="afftd">Jaypee Institute of Information Technology,
+Noida, India
                                 </td>
                             </tr>
                             <tr>
                                 <td className="snowidth text-center">45</td>
-                                <td className="nametd">Dr. Mohit Bansal</td>
-                                <td className="afftd">Professor and Head, EEE, GL Bajaj, Greater Noida
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">46</td>
-                                <td className="nametd">Dr. Mohmmad Rizwan</td>
-                                <td className="afftd">Professor, DTU, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">47</td>
-                                <td className="nametd">Dr. Monika Jain</td>
-                                <td className="afftd">Professor & Head, ITS, Greater Noida
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">48</td>
-                                <td className="nametd">Dr. Narendra Kumar</td>
-                                <td className="afftd">Professor, Delhi Technological University, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">49</td>
-                                <td className="nametd">Dr. N. D. Kaushika</td>
-                                <td className="afftd">IIT Delhi, Solar Thermal and Photovoltaics
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">50</td>
-                                <td className="nametd">Dr. Nidhi Singh</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, Gautam Buddha University, Greater Noida
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">51</td>
-                                <td className="nametd">Dr. Nilanjan Sen Roy</td>
-                                <td className="afftd">Professor, Department of Electrical Engineering, IIT Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">52</td>
-                                <td className="nametd">Dr. Nilesh Chothani</td>
-                                <td className="afftd">Adani Institute of Infrastructure, Associate Professor, Electrical Engineering
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">53</td>
-                                <td className="nametd">Dr. O.P. Verma</td>
-                                <td className="afftd">Professor, Electronics and Communication Engineering, DTU Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">54</td>
-                                <td className="nametd">Dr. Pardeep Kumar</td>
-                                <td className="afftd">Assistant Professor, NIT Kurukshetra
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">55</td>
-                                <td className="nametd">Dr. Pawan Kumar</td>
-                                <td className="afftd">Assistant Professor, Thapar Institute of Engineering & Technology, Patiala
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">56</td>
-                                <td className="nametd">Dr. Praghnesh Bhatt</td>
-                                <td className="afftd">Associate Professor, Electrical Department , School of Technology,PanditDeendayal Petroleum University (PDPU), Gandhinagar
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">57</td>
-                                <td className="nametd">Dr. Pratul Arvind</td>
-                                <td className="afftd">Associate Professor, Department of Electrical Engineering ADGITM, New Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">58</td>
-                                <td className="nametd">Dr. Preeti</td>
-                                <td className="afftd">Assistant Professor, Vishwakarma Skill University
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">59</td>
-                                <td className="nametd">Dr. Preetinder Singh</td>
-                                <td className="afftd">Associate Professor, Electrical Engineering Department, GNDEC, Ludhiana
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">60</td>
-                                <td className="nametd">Dr. Prerna Gaur</td>
-                                <td className="afftd">Professor, EE, NSUT, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">61</td>
-                                <td className="nametd">Dr. R. P. Gupta</td>
-                                <td className="afftd">Birla Institute of Technology, Sindri
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">62</td>
-                                <td className="nametd">Dr. R. P. Maheshwari</td>
-                                <td className="afftd">Ex-Professor, Indian Institute of Technology Roorkee
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">63</td>
-                                <td className="nametd">Dr. R.K. Nema</td>
-                                <td className="afftd">Professor &HoD Electrical, MANIT Bhopal
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">64</td>
-                                <td className="nametd">Dr. Rachna Garg,</td>
-                                <td className="afftd">Professor, Electrical Engineering Department, DTU, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">65</td>
-                                <td className="nametd">Dr. Rajendra Kumar Shukla</td>
-                                <td className="afftd">Professor and Head, Mechanical Engineering, Department, Medicaps University Indore
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">66</td>
                                 <td className="nametd">Dr. Rajesh Kumar</td>
-                                <td className="afftd">Associate Professor, North Eastern Regional Institute of Science and Technology, Nirjuli, Itanagar, Arunachal Pradesh
+                                <td className="afftd">University of Allahabad
                                 </td>
                             </tr>
-                            <tr>
-                                <td className="snowidth text-center">67</td>
-                                <td className="nametd">Dr. Rishi Asthana</td>
-                                <td className="afftd">Professor & Director, Goel Group of Institutions, Lucknow
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">68</td>
-                                <td className="nametd">Dr. S. N. Sharma</td>
-                                <td className="afftd">Professor, Electrical Engineering, at SVNIT, Surat
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">69</td>
-                                <td className="nametd">Dr. S. P. Srivastava</td>
-                                <td className="afftd">Professor (Retired), EED, IIT Roorkee
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">70</td>
-                                <td className="nametd">Dr. Sachin Sharma</td>
-                                <td className="afftd">Associate Professor, Graphic Era University, Dehradun
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">71</td>
-                                <td className="nametd">Dr. Sachin Singh</td>
-                                <td className="afftd">Assistant Professor, Institute of Engineering & Technology, Lucknow, U.P
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">72</td>
-                                <td className="nametd">Dr. Sanjay Gairola</td>
-                                <td className="afftd">Professor, EE, Govind Ballabh Pant Institute of Engineering & Technology, Ghurdauri, Uttrakhand
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">73</td>
-                                <td className="nametd">Dr. Sanjeeba Bisoyi</td>
-                                <td className="afftd">Associate Professor, JSS Academy of Technical Education, Noida
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">74</td>
-                                <td className="nametd">Dr. Sanjeev Singh Chauhan</td>
-                                <td className="afftd">Professor, EE, Maulana Azad National Institute of Technology, Bhopal
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">75</td>
-                                <td className="nametd">Dr. Sarsingh Gao</td>
-                                <td className="afftd">Professor, NERIST, Arunachal Pradesh
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">76</td>
-                                <td className="nametd">Dr. Shailendra Jain</td>
-                                <td className="afftd">Professor & Director, SLIET Longowal
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">77</td>
-                                <td className="nametd">Dr. Soumitri Jena</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, Thapar University, Patiala
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">78</td>
-                                <td className="nametd">Dr. Sreejith S.</td>
-                                <td className="afftd">Assistant Professor, NIT Silchar
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">79</td>
-                                <td className="nametd">Dr. Subrahmanyam Murala</td>
-                                <td className="afftd">Associate Professor Department of Electrical Engineering, IIT Ropar
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">80</td>
-                                <td className="nametd">Dr. Surinder Singh</td>
-                                <td className="afftd">Professor, Electrical and Electronics Engineering, SLIET, Longowal
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">81</td>
-                                <td className="nametd">Dr. Surjit Singh</td>
-                                <td className="afftd">Assistant Professor, Thapar Institute of Engg and Technology, Patiala
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">82</td>
-                                <td className="nametd">Dr. T. Visalakshi</td>
-                                <td className="afftd">Professor, Department of Civil Engineering at Ecole Centrale School of Engineering, Mahindra University
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">83</td>
-                                <td className="nametd">Dr. Tariqul Islam</td>
-                                <td className="afftd">Professor, Jamia Milia Islamia, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">84</td>
-                                <td className="nametd">Dr. Tarun Varshney</td>
-                                <td className="afftd">Professor & Head of the Department, Electrical Electronics and Communication Engineering (EECE), Sharda University, Greater Noida
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">85</td>
-                                <td className="nametd">Dr. Vijay Anant Athavale</td>
-                                <td className="afftd">Principal, WIT, Solapur
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">86</td>
-                                <td className="nametd">Dr. Vikas Bhadoria</td>
-                                <td className="afftd">Associate Professor, ABESEC, Ghaziabad
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">87</td>
-                                <td className="nametd">Dr. Vishal Gaur</td>
-                                <td className="afftd">Postdoctoral Research Associate, Indian Institute of Technology Kanpur
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">88</td>
-                                <td className="nametd">Dr. Vivek Pandya</td>
-                                <td className="afftd">Associate Professor Electrical Engineering Department Pandit Deendayal Petroleum University
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">89</td>
-                                <td className="nametd">Dr. Vivek Shrivastava</td>
-                                <td className="afftd">Associate Professor, NIT Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">90</td>
-                                <td className="nametd">Dr. Yogesh.Makwana</td>
-                                <td className="afftd">Assistant Professor, Government Engineering College, Dahod
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">91</td>
-                                <td className="nametd">Dr.Vijayakumar K.</td>
-                                <td className="afftd">Assistant Professor, IIITDM Kancheepuram (Under MhRD), Kandigai, Chennai
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">92</td>
-                                <td className="nametd">Dr.VSKV Harish</td>
-                                <td className="afftd">Assistant Professor, Electrical Engineering Department, NSUT, Delhi
-                                </td>
-                            </tr>
-                            <tr>
-                                <td className="snowidth text-center">93</td>
-                                <td className="nametd">Mr. Meenu Singhal</td>
-                                <td className="afftd">Vice President, Schneider Electric</td>
-                            </tr>
-
+                            
                         </tbody>
                     </Table>
 
-                    <Table borderless className="mb-5 borderbtm">
+                    {/* <Table borderless className="mb-5 borderbtm">
                         <tbody>
                             <tr>
                                 <th>Organizing Committee</th>
@@ -1016,14 +700,14 @@ class Theme extends Component {
                             <tr>
                                 <td className="tdborder">Mr. Ritesh Sharma</td>
                                 <td className="tdborder">Assistant Professor</td>
-                            </tr>
+                            </tr> */}
 
                             {/* <tr>
             <td className="tdborder">Mr. Atul Sood</td>
             <td className="tdborder">Assistant Professor</td>
             </tr> */}
 
-                            <tr>
+                            {/* <tr>
                                 <td className="tdborder">Ms. Nidhi Maurya </td>
                                 <td className="tdborder">Assistant Professor</td>
                             </tr>
@@ -1036,7 +720,7 @@ class Theme extends Component {
                             <tr>
                                 <td className="tdborder">Mr. Gaurav Srivastava </td>
                                 <td className="tdborder">Assistant Professor</td>
-                            </tr>
+                            </tr> */}
 
                             {/* <tr>
             <td className="tdborder">Mr. Parveen Kumar Dhull</td>
@@ -1058,7 +742,7 @@ class Theme extends Component {
             <td className="tdborder">Assistant Professor</td>
             </tr> */}
 
-                            <tr>
+                            {/* <tr>
                                 <td className="tdborder">Ms. Nupur Mittal</td>
                                 <td className="tdborder">Assistant Professor</td>
                             </tr>
@@ -1066,24 +750,24 @@ class Theme extends Component {
                             <tr>
                                 <td className="tdborder">Mr. Mahesh Sharma </td>
                                 <td className="tdborder">Assistant Professor</td>
-                            </tr>
+                            </tr> */}
 
                             {/* <tr>
             <td className="tdborder">Ms. Anubha Gupta</td>
             <td className="tdborder">Assistant Professor</td>
             </tr> */}
-
+{/* 
                             <tr>
                                 <td className="tdborder">Mr. Mahendra Dutt Dwivedi </td>
                                 <td className="tdborder">Assistant Professor</td>
-                            </tr>
+                            </tr> */}
 
                             {/* <tr>
             <td className="tdborder">Mr. Neeraj Gupta </td>
             <td className="tdborder">Assistant Professor</td>
             </tr> */}
 
-                            <tr>
+                            {/* <tr>
                                 <td className="tdborder">Mr. Harsh Mohan Sharma </td>
                                 <td className="tdborder">Assistant Professor</td>
                             </tr>
@@ -1091,15 +775,15 @@ class Theme extends Component {
                             <tr>
                                 <td className="tdborder">Mr. Shani Kumar  </td>
                                 <td className="tdborder">Assistant Professor</td>
-                            </tr>
+                            </tr> */}
 
                             {/* <tr>
             <td className="tdborder">Mr. Ritesh Yadav </td>
             <td className="tdborder">Assistant Professor</td>
             </tr> */}
 
-                        </tbody>
-                    </Table>
+                        {/* </tbody>
+                    </Table> */}
 
                 </div>
             </div>

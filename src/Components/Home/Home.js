@@ -12,7 +12,7 @@ class Home extends Component {
       <div id="home">
         <div className="d-flex container pt-5 justify-content-between">
           <div>
-            <img src={logopath} class="nayi" />
+            {/* <img src={logopath} class="nayi" /> */}
             <div id="bg-green" className="d-inline-block p-2 mt-3">
               INTERNATIONAL CONFERENCE on
             </div>
@@ -20,12 +20,16 @@ class Home extends Component {
             <h2 className="text-uppercase greenhead bold-text display-4">Advanced Computing and <br />Emerging Technologies (ACET)</h2>
             <Calendar /> <h5 className="greytext d-inline m-auto">06-07 Oct 2023</h5>
           </div>
-          <div className="w-50 d-flex deskicon" ><Desktop className="d-inline-block w-50 m-auto" /></div>
+          <div className="w-50 d-flex justify-content-center align-items-center deskicon" >
+            {/* <Desktop className="d-inline-block w-50 m-auto" /> */}
+            <img src={logopath} class="nayi" />
+            </div>
         </div>
 
 
-        <div className="container mt-4">
-          <Desktop className="w-50 mobicon" />
+        <div className="container mt-4 w-50 mobicon">
+          {/* <Desktop className="" /> */}
+          <img src={logopath} class="nayi" />
         </div>
 
 

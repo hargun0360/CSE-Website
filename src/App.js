@@ -9,6 +9,7 @@ import Keynote from './pages/Keynote/Keynote';
 import Registration from './pages/Registration/Registration';
 import Committee from './pages/Committee/Committee'
 import Award from './pages/Award/Award';
+import ImpDates from './Components/Important_Dates/ImpDates';
 
 class App extends Component {
 
@@ -32,8 +33,9 @@ class App extends Component {
           <Route path='/call-for-paper' component={Call} />
           <Route path='/keynote-speakers' component={Keynote} />
           <Route path="/registration" component={Registration} />
-          {/* <Route path='/committee' component={Committee} /> */}
+          <Route path='/committee' component={Committee} />
           <Route path='/accomodation' component={Award} />
+          <Route path='/dates' component={ImpDates} />
         </Switch>
       </div>
     );
