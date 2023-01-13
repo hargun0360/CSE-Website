@@ -18,7 +18,7 @@ class Home extends Component {
             </div>
             {/* <h5 className="greytext mt-2 ">Advancements and Key Challenges in</h5> */}
             <h2 className="text-uppercase greenhead bold-text display-4">Advanced Computing and <br />Emerging Technologies (ACET)</h2>
-            <Calendar /> <h5 className="greytext d-inline m-auto">06-07 Oct 2023</h5>
+            <Calendar /> <h5 className="greytext d-inline m-auto">9-10 February 2024</h5>
           </div>
           <div className="w-50 d-flex justify-content-center align-items-center deskicon" >
             {/* <Desktop className="d-inline-block w-50 m-auto" /> */}

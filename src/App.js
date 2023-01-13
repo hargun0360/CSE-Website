@@ -35,7 +35,7 @@ class App extends Component {
           <Route path="/registration" component={Registration} />
           <Route path='/committee' component={Committee} />
           <Route path='/accomodation' component={Award} />
-          <Route path='/dates' component={ImpDates} />
+          {/* <Route path='/dates' component={ImpDates} /> */}
         </Switch>
       </div>
     );

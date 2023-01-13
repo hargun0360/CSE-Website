@@ -21,7 +21,7 @@ function Navigationbar(props) {
             <Link to='/about' className={props.active === 'about' ? 'p-2 active activeLink d-flex align-items-center' : 'p-2 inactiveLink inactive d-flex align-items-center'}>About</Link>
             <Link to='/committee' className={props.active === 'committee' ? 'p-2 active activeLink d-flex align-items-center' : 'p-2 inactiveLink inactive d-flex align-items-center'}>Committee</Link>
             <Link to='/call-for-paper' className={props.active === 'call' ? 'p-2 active activeLink d-flex align-items-center' : 'p-2 inactiveLink inactive d-flex align-items-center'}>Call for Paper</Link>
-            <Link to='/dates' className={props.active==='dates'?'p-2 active activeLink d-flex align-items-center':'p-2 inactiveLink inactive d-flex align-items-center'}>Important Dates</Link>
+            {/* <Link to='/dates' className={props.active==='dates'?'p-2 active activeLink d-flex align-items-center':'p-2 inactiveLink inactive d-flex align-items-center'}>Important Dates</Link> */}
             <Link to='/registration' className={props.active === 'registration' ? 'p-2 active activeLink d-flex align-items-center' : 'p-2 inactiveLink inactive d-flex align-items-center'}>Registration</Link>
             <Link to='/accomodation' className={props.active === 'accomodation' ? 'p-2 active activeLink d-flex align-items-center' : 'p-2 inactiveLink inactive d-flex align-items-center'}>Accomodation</Link>
 
