@@ -16,32 +16,42 @@ class Theme extends Component {
                             <tr>
                                 <th>S/N</th>
                                 <th>Category</th>
-                                <th>Amount (National)</th>
-                                <th>Amount (International)</th>
+                                <th>Amount</th>
                             </tr>
                             <tr>
                                 <td>1</td>
-                                <td> For Author/Full Paper Registration (Student - UG, PG & PhD) </td>
+                                <td> Non-IEEE Professional </td>
                                 <td>INR 5000</td>
-                                <td>$100</td>
                             </tr>
                             <tr>
                                 <td>2</td>
-                                <td> For Author/Full Paper Registration (Academician/Professors/Industry Professional) </td>
-                                <td>INR 6000</td>
-                                <td>$150</td>
+                                <td> IEEE Professional Members </td>
+                                <td>INR 4000</td>
                             </tr>
                             <tr>
                                 <td>3</td>
-                                <td> For Abstract/ Oral Presentation/Delegate/Poster Presentation </td>
-                                <td>INR 5000</td>
-                                <td>$100</td>
+                                <td> Non-IEEE Students </td>
+                                <td>INR 4000</td>
                             </tr>
                             <tr>
                                 <td>4</td>
-                                <td> Workshop Fees </td>
-                                <td>Free</td>
-                                <td>Free</td>
+                                <td> IEEE Student Members  </td>
+                                <td> INR 3000 </td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td> Industry Participants  </td>
+                                <td> INR 6000 </td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td> Non-IEEE Foreign Participants </td>
+                                <td> $ 200 </td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td> IEEE Foreign Participants  </td>
+                                <td>  $ 150 </td>
                             </tr>
 
                         </tbody>

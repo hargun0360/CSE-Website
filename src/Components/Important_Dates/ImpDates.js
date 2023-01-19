@@ -14,38 +14,38 @@ const ImpDates = () => {
       <tbody>
         <tr>
 
-          <td>Full Paper Submission due </td>
-          <td>May 31, 2023</td>
+          <td> Paper Submission open </td>
+          <td>April 1, 2023</td>
 
 
 
+        </tr>
+        <tr>
+          <td>Paper Submission due </td>
+          <td> October 30, 2023 </td>
         </tr>
         <tr>
           <td>Acceptance Notification due </td>
-
-          <td>June 22, 2023</td>
-
-
-
+          <td> November 30, 2023 </td>
         </tr>
+        <tr>
+          <td>Workshop Proposal due </td>
+          <td> November 30, 2023 </td>
+        </tr>
+
         <tr>
           <td>Camera Ready Paper due   </td>
-          <td>July 22, 2023</td>
-        </tr>
-
-        <tr>
-          <td>Workshop proposal due   </td>
-          <td>July 31, 2022</td>
+          <td>December 31, 2023</td>
         </tr>
 
         <tr>
           <td>Registration due  </td>
-          <td>August 22, 2023</td>
+          <td>December 31, 2023</td>
         </tr>
 
         <tr>
-          <td>Conference Date </td>
-          <td >October 06-07, 2023</td>
+          <td>Conference dates </td>
+          <td >February 9-10, 2024</td>
         </tr>
       </tbody>
     </Table>
