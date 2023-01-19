@@ -12,7 +12,7 @@ function Navigationbar(props) {
       <Navbar collapseOnSelect expand="md" bg="dark" variant="dark" className='px-3 navbarcolor'>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <div className='d-flex d-md-none'>
-          <div className='text-white p-1 me-4' style={{ fontSize: "12px", border: '1px solid white' }}>Date&nbsp;:&nbsp;24&nbsp;-&nbsp;25&nbsp;Feb&nbsp;2023</div>
+          <div className='text-white p-1 me-4' style={{ fontSize: "12px", border: '1px solid white' }}>Date&nbsp;:&nbsp;9&nbsp;-&nbsp;10&nbsp;Feb&nbsp;2024</div>
           {/* <NotificationsIcon onClick={() => setModalShow(true)} className='m-0 p-0' style={{color:"white"}}/> */}
         </div>
         <Navbar.Collapse id="responsive-navbar-nav">
