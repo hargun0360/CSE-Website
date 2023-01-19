@@ -36,14 +36,14 @@ class Home extends Component {
         <div id="date" className="target mt-3">
           <div className="container" >
             <h1 className="mb-3 green-heading">Date and Venue of the Conference</h1>
-            <p>The conference organized by Department of Computer Science & Engineering, will be held offline at AKGEC, Ghaziabad, Uttar Pradesh, India on October 6-7, 2023 in collaboration with IEEE Uttar Pradesh Section. The conference will include regular sessions with poster/oral presentations, global and technical sessions, panel discussions and poster presentations organized in AKGEC.</p>
+            <p>The conference organized by Department of Computer Science & Engineering, will be held offline at AKGEC, Ghaziabad, Uttar Pradesh, India on 9-10 February 2024 in collaboration with IEEE Uttar Pradesh Section. The conference will include regular sessions with poster/oral presentations, global and technical sessions, panel discussions and poster presentations organized in AKGEC.</p>
           </div>
         </div>
 
         <div id="theme" className="target">
           <div className="container mb-5" >
             <h1 className="mb-3 green-heading">Conference Theme</h1>
-            <p>The international conference on  Advanced Computing and Emerging Technologies (AKGEC-2023) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. The focus area and tracks of the conference would be:</p>
+            <p>The international conference on  Advanced Computing and Emerging Technologies (ACET-2024) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. The focus area and tracks of the conference would be:</p>
             <p><span className="bold-text">Track 1:</span> Advances in Machine Learning and Deep Learning<br />
               <span className="bold-text">Track 2:</span> Advances in Data Science<br />
               <span className="bold-text">Track 3:</span> Applications of Artificial Intelligence in Interdisciplinary areas<br />
